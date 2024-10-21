@@ -1,0 +1,1001 @@
+Age,Attrition,BusinessTravel,Department,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,JobInvolvement,JobRole,JobSatisfaction,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,ManagerGender
+56,Yes,Non-Travel,IT Support,1,Computer Science,1,1,Female,3,Helpdesk Analyst,1,10863,6,Yes,2,3,4,0,25,0,2,5,6,5,1,Male
+38,Yes,Non-Travel,Data Science,1,Computer Science,2,1,Male,4,Data Analyst,4,14728,6,Yes,2,3,4,0,17,0,4,12,7,3,7,Female
+59,Yes,Travel_Frequently,IT Support,2,Information Technology,3,1,Male,4,IT Specialist,3,6220,3,Yes,13,2,4,3,7,3,3,12,10,6,2,Male
+37,Yes,Travel_Rarely,IT Support,1,Information Technology,4,4,Female,2,IT Specialist,4,13140,6,Yes,11,3,4,3,16,3,3,5,6,10,5,Male
+39,Yes,Non-Travel,Data Science,4,Information Technology,5,4,Male,1,Data Scientist,4,5684,1,No,8,4,4,2,32,5,4,15,2,6,8,Female
+56,Yes,Travel_Rarely,Software Development,3,Computer Science,6,1,Male,2,Frontend Developer,4,12966,5,No,15,1,4,2,11,2,3,4,9,9,9,Male
+35,No,Non-Travel,IT Support,4,Mathematics,7,3,Female,2,Helpdesk Analyst,1,13890,2,Yes,18,4,3,2,5,1,3,15,6,5,7,Male
+50,Yes,Travel_Frequently,Software Development,3,Mathematics,8,1,Female,4,Backend Developer,2,14172,6,Yes,8,2,2,1,30,4,1,11,6,10,7,Female
+26,No,Travel_Frequently,Software Development,1,Engineering,9,1,Male,1,Backend Developer,2,14500,4,No,7,4,3,0,26,0,2,7,3,3,5,Female
+22,Yes,Travel_Frequently,Software Development,1,Business Administration,10,3,Female,1,Software Engineer,1,4010,2,No,2,1,4,3,35,3,3,8,2,1,7,Female
+28,No,Travel_Frequently,IT Support,4,Computer Science,11,1,Female,4,System Administrator,3,3817,0,No,8,1,1,0,4,4,1,10,10,5,6,Male
+32,Yes,Non-Travel,Data Science,3,Computer Science,12,4,Female,4,Data Analyst,3,4968,0,Yes,3,1,2,0,27,0,4,16,4,8,3,Female
+60,Yes,Travel_Rarely,Data Science,3,Computer Science,13,4,Male,1,Data Scientist,2,10034,6,Yes,1,1,1,3,30,1,3,1,8,1,9,Female
+59,Yes,Non-Travel,Project Management,3,Computer Science,14,4,Male,3,Project Manager,3,4079,1,No,9,4,2,2,6,0,2,12,7,5,9,Female
+31,No,Travel_Frequently,IT Support,2,Computer Science,15,1,Female,1,System Administrator,1,9998,4,Yes,17,2,3,3,35,3,1,19,9,8,4,Male
+44,Yes,Travel_Frequently,Cybersecurity,1,Computer Science,16,4,Male,3,Security Analyst,2,14698,2,No,16,3,2,3,2,4,1,11,1,0,1,Male
+41,Yes,Non-Travel,Project Management,4,Information Technology,17,2,Female,3,Scrum Master,2,9283,1,Yes,16,4,4,3,30,1,2,16,10,3,1,Male
+54,Yes,Non-Travel,Project Management,3,Engineering,18,4,Male,4,Scrum Master,1,4293,0,Yes,14,2,2,0,21,4,1,7,3,10,9,Male
+43,Yes,Non-Travel,IT Support,3,Engineering,19,4,Male,1,Helpdesk Analyst,3,4808,2,No,2,3,1,2,29,3,4,2,9,8,2,Male
+59,No,Travel_Rarely,Software Development,3,Information Technology,20,2,Female,4,Backend Developer,2,14149,4,Yes,5,1,2,0,35,4,1,13,6,8,3,Female
+50,Yes,Non-Travel,Project Management,1,Information Technology,21,3,Male,3,Scrum Master,2,3144,5,No,19,3,1,2,9,5,1,11,7,6,4,Female
+54,No,Non-Travel,Project Management,2,Business Administration,22,4,Female,2,Project Manager,4,6667,4,No,13,4,3,0,30,3,2,11,4,2,2,Female
+54,No,Travel_Rarely,IT Support,1,Mathematics,23,1,Male,3,IT Specialist,2,6136,6,Yes,16,4,1,3,17,3,4,14,5,3,9,Male
+46,Yes,Non-Travel,Cybersecurity,4,Engineering,24,2,Female,1,Network Security Specialist,2,7768,3,No,12,2,2,2,1,2,1,3,9,6,3,Male
+60,Yes,Non-Travel,Project Management,1,Engineering,25,3,Male,2,Agile Coach,4,13519,0,No,10,2,2,1,12,4,2,4,3,6,4,Female
+36,No,Non-Travel,IT Support,2,Engineering,26,4,Male,4,Helpdesk Analyst,1,4174,0,Yes,11,2,1,0,31,2,3,2,7,8,7,Male
+44,Yes,Travel_Frequently,Project Management,2,Information Technology,27,2,Male,3,Scrum Master,2,4607,6,No,8,1,2,1,4,5,1,12,5,10,10,Male
+49,Yes,Travel_Frequently,IT Support,1,Mathematics,28,1,Male,3,System Administrator,4,8023,0,No,15,4,3,0,35,3,3,4,3,8,4,Male
+55,No,Non-Travel,Project Management,1,Engineering,29,2,Female,4,Project Manager,1,6930,3,No,9,4,1,3,36,1,4,10,4,0,7,Male
+27,Yes,Non-Travel,Cybersecurity,2,Mathematics,30,4,Female,2,Network Security Specialist,3,5934,3,No,14,2,4,1,34,5,2,12,7,2,8,Male
+46,Yes,Non-Travel,Project Management,1,Engineering,31,1,Male,4,Project Manager,3,8485,0,Yes,9,2,1,3,4,5,1,7,2,9,10,Male
+35,Yes,Travel_Frequently,Project Management,3,Information Technology,32,2,Male,1,Agile Coach,4,10950,1,Yes,2,3,3,1,18,4,4,10,10,5,10,Female
+40,No,Travel_Frequently,Software Development,1,Business Administration,33,1,Female,3,Backend Developer,2,4513,1,No,1,2,2,2,14,1,3,2,6,5,10,Female
+49,No,Travel_Rarely,Cybersecurity,4,Information Technology,34,2,Male,1,Network Security Specialist,2,10126,6,Yes,7,3,2,0,40,2,4,9,2,7,9,Male
+32,Yes,Non-Travel,Data Science,1,Business Administration,35,3,Male,3,Data Analyst,1,8203,4,Yes,9,1,3,0,38,3,1,9,8,2,9,Female
+46,No,Non-Travel,Project Management,1,Computer Science,36,4,Female,3,Scrum Master,2,6537,6,No,13,3,4,0,11,0,2,3,6,10,5,Female
+40,Yes,Travel_Frequently,IT Support,3,Information Technology,37,4,Male,3,IT Specialist,3,7049,4,Yes,7,3,2,2,10,3,1,3,7,10,2,Male
+33,Yes,Travel_Frequently,Cybersecurity,4,Computer Science,38,2,Male,1,Security Analyst,3,4458,4,No,6,1,3,1,23,1,4,12,9,7,2,Male
+55,No,Travel_Frequently,IT Support,4,Computer Science,39,4,Female,1,System Administrator,4,14491,1,Yes,11,2,1,1,33,0,2,1,3,9,5,Male
+49,Yes,Travel_Frequently,Project Management,2,Engineering,40,3,Female,2,Agile Coach,4,10671,5,Yes,2,1,1,2,35,3,1,3,1,5,10,Male
+55,No,Travel_Rarely,IT Support,2,Business Administration,41,4,Female,3,IT Specialist,3,5939,2,Yes,13,1,2,3,4,1,1,16,7,5,2,Male
+47,Yes,Non-Travel,Software Development,4,Mathematics,42,2,Male,2,Full Stack Developer,3,4553,5,No,19,3,1,3,36,3,1,12,6,8,7,Female
+33,Yes,Non-Travel,Project Management,2,Business Administration,43,3,Male,1,Agile Coach,2,12374,1,Yes,20,4,3,2,39,5,1,15,2,5,5,Female
+31,No,Non-Travel,IT Support,3,Mathematics,44,4,Male,3,IT Specialist,2,5615,2,Yes,7,1,1,3,38,4,3,12,10,8,6,Male
+37,No,Non-Travel,Cybersecurity,3,Engineering,45,4,Male,2,Security Analyst,4,5068,4,No,9,1,1,0,22,3,3,4,4,1,5,Male
+23,No,Travel_Frequently,IT Support,3,Engineering,46,2,Female,4,System Administrator,2,11667,0,Yes,4,2,4,3,14,5,3,10,10,2,10,Male
+40,No,Travel_Rarely,Software Development,2,Computer Science,47,3,Male,1,Backend Developer,4,4357,0,Yes,18,4,2,3,12,3,2,9,4,9,4,Male
+26,No,Non-Travel,Cybersecurity,4,Business Administration,48,1,Male,1,Security Analyst,2,6163,1,No,5,2,3,1,21,3,4,2,6,3,3,Male
+34,No,Travel_Rarely,Data Science,4,Computer Science,49,4,Male,1,Machine Learning Engineer,2,14920,1,Yes,20,4,4,0,36,1,2,16,2,4,1,Female
+45,No,Non-Travel,Project Management,2,Computer Science,50,1,Female,4,Scrum Master,2,7751,5,No,15,1,4,1,35,1,2,18,8,2,10,Male
+32,No,Travel_Frequently,IT Support,2,Computer Science,51,1,Male,3,System Administrator,3,10191,5,Yes,12,2,4,2,3,2,1,6,6,4,6,Male
+50,Yes,Travel_Rarely,Cybersecurity,3,Computer Science,52,2,Male,4,Network Security Specialist,4,12487,4,Yes,17,3,2,2,15,5,4,3,4,2,2,Male
+51,Yes,Non-Travel,Cybersecurity,3,Engineering,53,3,Female,2,Network Security Specialist,3,8454,0,Yes,11,4,4,0,9,2,1,6,1,0,1,Male
+32,No,Non-Travel,Project Management,4,Information Technology,54,2,Male,3,Project Manager,4,3549,4,Yes,13,1,3,3,32,1,2,16,6,4,2,Female
+37,No,Travel_Frequently,Software Development,2,Computer Science,55,3,Female,3,Full Stack Developer,1,3656,4,Yes,3,2,3,1,17,2,2,2,6,6,7,Male
+60,No,Travel_Frequently,IT Support,2,Engineering,56,3,Female,4,System Administrator,4,7434,5,Yes,6,3,4,1,34,1,4,18,5,4,10,Male
+46,No,Non-Travel,Software Development,2,Engineering,57,3,Male,1,Frontend Developer,2,7954,4,Yes,3,3,4,3,26,1,3,9,3,0,2,Female
+55,Yes,Non-Travel,Software Development,1,Computer Science,58,2,Male,2,Backend Developer,3,7560,4,No,7,4,4,1,15,2,4,1,10,2,5,Male
+56,Yes,Travel_Frequently,IT Support,3,Engineering,59,2,Male,4,Technical Support,3,3209,1,No,13,2,4,1,12,5,1,16,8,2,3,Male
+27,No,Non-Travel,Cybersecurity,3,Engineering,60,2,Male,4,Security Analyst,3,14943,1,No,15,2,3,1,33,4,2,5,8,6,7,Male
+24,Yes,Travel_Rarely,Project Management,2,Engineering,61,4,Male,2,Project Manager,1,9246,0,No,15,1,2,0,4,4,4,15,9,3,6,Female
+59,No,Non-Travel,Cybersecurity,2,Computer Science,62,1,Male,4,Security Analyst,4,6413,2,Yes,6,1,1,1,36,3,3,15,2,2,7,Male
+49,Yes,Non-Travel,Software Development,2,Information Technology,63,1,Female,2,Software Engineer,3,11924,2,No,11,2,4,2,18,1,2,15,10,4,10,Male
+36,Yes,Travel_Rarely,IT Support,4,Engineering,64,2,Male,3,Helpdesk Analyst,1,3902,2,Yes,19,2,1,3,29,1,3,9,2,3,1,Male
+29,Yes,Travel_Rarely,IT Support,2,Engineering,65,3,Male,4,Technical Support,3,8486,6,No,16,2,1,2,1,0,1,12,8,9,8,Male
+50,Yes,Travel_Rarely,Software Development,3,Computer Science,66,2,Male,3,Backend Developer,4,12739,1,Yes,20,3,1,2,37,0,1,9,8,9,4,Male
+26,Yes,Travel_Frequently,IT Support,4,Engineering,67,4,Male,1,System Administrator,4,3777,5,Yes,13,2,4,2,40,3,4,7,7,5,6,Male
+40,Yes,Travel_Frequently,Project Management,1,Business Administration,68,3,Female,4,Project Manager,1,7360,3,Yes,18,2,3,2,4,1,1,5,5,1,3,Male
+28,Yes,Non-Travel,Data Science,4,Mathematics,69,4,Female,3,Data Scientist,4,7068,6,No,6,2,4,2,34,2,1,5,6,3,4,Female
+40,No,Non-Travel,Cybersecurity,1,Information Technology,70,1,Female,3,Network Security Specialist,2,3830,3,Yes,15,2,2,3,23,4,2,11,3,7,4,Male
+33,No,Travel_Frequently,Cybersecurity,4,Engineering,71,2,Female,2,Cybersecurity Engineer,2,4222,3,No,13,3,3,0,11,0,1,10,9,10,5,Male
+42,No,Non-Travel,Software Development,3,Mathematics,72,1,Female,3,Full Stack Developer,1,8919,5,Yes,16,3,4,3,19,2,1,10,7,6,5,Female
+29,No,Travel_Rarely,Project Management,1,Business Administration,73,1,Female,4,Scrum Master,1,14991,4,Yes,1,4,3,2,5,3,1,19,5,4,9,Male
+24,No,Non-Travel,Cybersecurity,3,Information Technology,74,1,Male,4,Security Analyst,2,13545,0,No,3,4,3,1,24,3,2,5,2,3,7,Male
+52,No,Travel_Rarely,Software Development,1,Business Administration,75,3,Female,2,Backend Developer,2,12962,2,Yes,19,4,1,3,1,3,4,19,2,5,8,Male
+60,No,Travel_Frequently,IT Support,4,Engineering,76,1,Male,2,Technical Support,4,4932,0,Yes,1,3,4,2,2,0,4,4,2,0,4,Male
+58,No,Non-Travel,Data Science,2,Mathematics,77,1,Male,1,Data Scientist,2,12487,4,No,1,4,3,3,9,1,4,8,2,9,2,Female
+42,No,Non-Travel,Data Science,3,Computer Science,78,1,Male,1,Data Scientist,1,5024,2,Yes,3,2,2,3,27,2,4,1,8,4,10,Female
+26,No,Travel_Rarely,Project Management,3,Business Administration,79,4,Male,1,Project Manager,4,5424,0,Yes,17,2,2,1,17,2,1,8,7,10,2,Female
+45,Yes,Travel_Frequently,IT Support,3,Information Technology,80,4,Male,1,Helpdesk Analyst,1,6256,4,Yes,15,1,1,3,26,3,3,11,2,2,5,Male
+23,Yes,Travel_Frequently,IT Support,4,Business Administration,81,2,Male,4,IT Specialist,1,4583,2,No,10,2,1,3,22,0,2,9,7,1,10,Male
+45,Yes,Travel_Rarely,Software Development,3,Engineering,82,4,Female,4,Software Engineer,1,8804,5,No,19,1,2,0,25,2,4,10,2,3,8,Female
+34,No,Travel_Rarely,Software Development,3,Business Administration,83,2,Female,4,Backend Developer,4,6238,1,Yes,3,2,3,0,27,5,3,2,8,3,7,Female
+46,No,Travel_Frequently,Software Development,3,Computer Science,84,2,Male,2,Full Stack Developer,2,9780,2,Yes,6,4,2,1,37,5,4,3,1,2,7,Male
+45,Yes,Travel_Rarely,IT Support,3,Business Administration,85,2,Female,4,Helpdesk Analyst,3,9300,3,No,12,2,1,0,9,4,1,13,8,5,1,Male
+34,Yes,Travel_Rarely,Cybersecurity,1,Computer Science,86,4,Male,3,Network Security Specialist,1,5326,6,Yes,6,2,2,1,26,4,3,3,2,0,1,Male
+60,No,Travel_Rarely,IT Support,1,Engineering,87,4,Male,2,System Administrator,1,5675,0,No,11,1,3,3,3,2,3,17,6,5,4,Male
+55,Yes,Non-Travel,Data Science,1,Mathematics,88,3,Female,4,Machine Learning Engineer,1,11949,5,Yes,10,1,1,1,35,5,1,19,5,0,9,Female
+45,Yes,Travel_Frequently,IT Support,1,Information Technology,89,1,Male,4,IT Specialist,4,13550,2,Yes,5,3,4,2,22,4,2,7,1,7,4,Male
+34,Yes,Travel_Rarely,IT Support,1,Information Technology,90,2,Female,2,Helpdesk Analyst,3,11872,2,No,2,3,2,1,12,0,1,9,4,3,3,Male
+45,Yes,Travel_Rarely,IT Support,3,Engineering,91,1,Female,3,Technical Support,3,13995,3,No,4,2,1,3,19,1,2,10,9,2,3,Male
+26,No,Travel_Frequently,IT Support,3,Business Administration,92,2,Female,3,Technical Support,1,9285,6,Yes,6,3,2,3,15,4,2,13,7,9,9,Male
+43,Yes,Non-Travel,IT Support,2,Business Administration,93,3,Male,2,IT Specialist,2,7902,0,No,17,1,3,2,22,2,4,7,7,8,9,Male
+41,Yes,Travel_Frequently,IT Support,3,Mathematics,94,4,Female,1,System Administrator,1,7584,4,No,20,1,2,3,34,3,2,15,9,6,5,Male
+29,Yes,Travel_Rarely,IT Support,2,Business Administration,95,2,Female,1,Technical Support,4,10440,4,Yes,14,3,2,1,18,2,3,8,6,3,2,Male
+54,No,Travel_Frequently,Cybersecurity,3,Computer Science,96,1,Male,1,Cybersecurity Engineer,4,13839,0,Yes,19,2,3,0,22,3,4,15,6,1,3,Male
+32,Yes,Travel_Rarely,Cybersecurity,4,Business Administration,97,2,Male,1,Cybersecurity Engineer,2,4508,2,Yes,14,3,2,1,29,2,3,18,1,8,8,Male
+56,No,Travel_Rarely,Cybersecurity,4,Information Technology,98,1,Female,3,Network Security Specialist,3,3826,6,No,17,3,3,2,34,4,3,1,6,5,2,Male
+56,Yes,Non-Travel,Data Science,2,Business Administration,99,1,Male,1,Data Scientist,2,9331,5,No,12,2,1,1,6,4,2,9,10,8,9,Female
+55,No,Travel_Frequently,Cybersecurity,1,Information Technology,100,1,Male,1,Cybersecurity Engineer,1,3802,2,No,10,3,2,2,5,0,4,11,4,5,1,Male
+27,Yes,Travel_Rarely,Data Science,1,Information Technology,101,4,Male,2,Data Scientist,2,8195,4,Yes,18,2,1,1,23,2,1,1,7,8,3,Female
+44,Yes,Travel_Rarely,Software Development,1,Engineering,102,3,Male,3,Full Stack Developer,4,3149,4,No,10,4,4,3,32,4,2,16,8,8,10,Female
+26,No,Travel_Rarely,Project Management,3,Engineering,103,4,Female,3,Project Manager,3,4459,3,No,4,4,2,0,8,5,2,14,3,1,8,Male
+48,No,Travel_Frequently,Data Science,2,Information Technology,104,1,Female,1,Data Analyst,4,6908,5,Yes,6,1,4,0,11,4,4,3,10,0,3,Female
+46,No,Travel_Rarely,Cybersecurity,4,Mathematics,105,1,Female,1,Network Security Specialist,1,9763,0,Yes,15,2,1,1,4,1,4,1,1,0,3,Male
+24,No,Travel_Rarely,Software Development,3,Mathematics,106,4,Male,3,Backend Developer,2,5599,3,No,18,2,1,1,2,5,4,5,5,4,8,Male
+38,No,Travel_Rarely,IT Support,1,Engineering,107,3,Female,4,Helpdesk Analyst,3,8640,3,No,6,1,4,0,10,4,4,10,1,3,8,Male
+35,Yes,Travel_Frequently,Cybersecurity,1,Information Technology,108,1,Female,2,Network Security Specialist,2,12544,4,No,18,1,3,3,23,5,2,20,7,3,10,Male
+41,No,Travel_Rarely,Project Management,2,Information Technology,109,4,Female,3,Project Manager,3,14095,1,No,14,2,2,1,28,1,4,13,5,2,8,Female
+52,No,Travel_Rarely,Project Management,3,Business Administration,110,4,Female,3,Project Manager,4,9880,6,Yes,16,3,1,3,23,3,1,17,9,9,10,Male
+54,Yes,Travel_Rarely,Data Science,3,Business Administration,111,2,Male,4,Data Scientist,1,14317,6,Yes,9,4,1,1,16,2,2,10,8,10,3,Female
+57,Yes,Travel_Rarely,Cybersecurity,4,Business Administration,112,2,Female,1,Security Analyst,1,10258,0,Yes,1,2,2,1,16,2,1,15,4,7,4,Male
+51,No,Travel_Frequently,Data Science,2,Computer Science,113,3,Female,1,Data Analyst,4,14335,1,No,3,3,1,3,18,5,3,20,2,6,3,Female
+56,No,Travel_Frequently,Software Development,2,Mathematics,114,2,Female,4,Backend Developer,3,12409,0,No,1,1,3,3,28,3,1,4,2,1,10,Female
+33,No,Travel_Rarely,Data Science,4,Information Technology,115,2,Male,4,Data Scientist,3,10073,0,No,15,3,1,3,36,3,2,17,5,6,1,Female
+27,Yes,Travel_Frequently,IT Support,1,Computer Science,116,3,Male,1,System Administrator,2,10961,1,No,13,1,3,1,25,2,2,10,2,1,6,Male
+38,No,Travel_Frequently,Data Science,4,Mathematics,117,3,Male,2,Machine Learning Engineer,1,3774,3,No,16,2,1,1,9,3,1,15,6,9,4,Female
+26,No,Travel_Frequently,Cybersecurity,3,Engineering,118,1,Male,3,Network Security Specialist,2,9416,1,No,16,3,3,0,39,0,1,12,5,5,5,Male
+53,No,Travel_Rarely,Data Science,4,Business Administration,119,2,Female,2,Data Analyst,1,9942,5,Yes,20,2,4,0,17,3,2,2,4,8,6,Female
+32,Yes,Non-Travel,Cybersecurity,2,Business Administration,120,1,Female,3,Security Analyst,2,14623,5,Yes,18,4,4,3,34,2,2,1,3,2,6,Male
+46,Yes,Travel_Frequently,Project Management,3,Business Administration,121,1,Female,1,Agile Coach,1,9243,2,No,2,4,1,1,26,4,1,8,10,9,6,Male
+36,No,Non-Travel,Project Management,1,Engineering,122,3,Female,1,Scrum Master,3,10644,3,Yes,17,1,4,2,16,4,2,1,3,4,10,Male
+24,No,Travel_Frequently,Cybersecurity,3,Information Technology,123,3,Female,3,Security Analyst,4,13385,1,No,10,1,2,3,24,3,2,13,3,1,6,Male
+54,Yes,Non-Travel,Cybersecurity,2,Engineering,124,2,Female,2,Cybersecurity Engineer,3,4095,6,No,14,1,3,2,39,5,2,12,1,9,7,Male
+43,Yes,Travel_Frequently,Project Management,3,Mathematics,125,4,Male,4,Scrum Master,1,14975,6,No,20,2,4,3,20,2,3,3,10,7,9,Male
+55,Yes,Travel_Rarely,Cybersecurity,1,Business Administration,126,3,Male,3,Cybersecurity Engineer,4,3443,1,Yes,3,3,1,0,24,0,4,14,2,7,2,Male
+44,No,Travel_Rarely,Software Development,2,Mathematics,127,1,Male,1,Frontend Developer,4,10198,6,No,2,4,1,3,19,4,1,6,8,10,9,Male
+40,No,Travel_Rarely,Project Management,2,Information Technology,128,4,Female,3,Agile Coach,1,8125,3,Yes,12,1,2,3,38,4,1,16,4,9,3,Male
+50,No,Non-Travel,IT Support,2,Business Administration,129,3,Male,3,Technical Support,3,3427,6,Yes,4,4,4,3,1,3,1,8,7,4,1,Male
+40,No,Travel_Rarely,Software Development,1,Computer Science,130,3,Male,1,Frontend Developer,1,14648,0,Yes,11,1,1,3,31,2,4,18,9,10,8,Male
+45,No,Travel_Frequently,Software Development,2,Business Administration,131,1,Female,1,Backend Developer,1,13159,4,Yes,13,3,4,0,24,0,1,14,10,7,5,Female
+40,No,Travel_Frequently,Cybersecurity,1,Business Administration,132,2,Male,3,Cybersecurity Engineer,1,14787,6,No,19,4,4,1,23,1,2,12,9,3,4,Male
+44,No,Travel_Frequently,Software Development,4,Engineering,133,4,Female,2,Full Stack Developer,1,12522,3,No,13,1,4,3,36,0,3,8,8,0,5,Female
+47,Yes,Travel_Frequently,IT Support,3,Information Technology,134,2,Female,2,System Administrator,3,3379,3,No,20,1,3,1,12,2,2,9,1,5,2,Male
+47,No,Travel_Rarely,Cybersecurity,3,Mathematics,135,4,Male,2,Network Security Specialist,1,14951,6,No,1,2,3,2,36,3,4,3,6,2,6,Male
+36,Yes,Non-Travel,Project Management,4,Information Technology,136,3,Male,1,Project Manager,1,10516,4,Yes,13,1,2,3,39,1,2,10,5,10,5,Female
+32,No,Non-Travel,IT Support,4,Mathematics,137,3,Male,4,System Administrator,1,10400,1,No,17,3,4,2,2,1,4,2,8,5,8,Male
+53,Yes,Travel_Frequently,Project Management,4,Information Technology,138,4,Female,2,Project Manager,2,9824,5,No,9,1,4,0,28,5,3,10,5,5,10,Female
+34,No,Travel_Rarely,Data Science,4,Computer Science,139,1,Female,4,Data Analyst,1,11439,5,No,2,2,4,3,18,0,2,16,6,8,8,Female
+22,No,Non-Travel,Cybersecurity,2,Engineering,140,1,Female,3,Network Security Specialist,1,3568,1,Yes,20,3,3,1,11,5,2,17,6,4,9,Male
+44,Yes,Travel_Rarely,Project Management,2,Mathematics,141,1,Male,4,Scrum Master,3,8120,0,Yes,1,3,3,0,39,1,4,4,2,7,2,Female
+53,No,Non-Travel,Data Science,3,Business Administration,142,3,Male,3,Data Analyst,1,6572,0,No,2,1,1,2,39,1,3,18,3,1,10,Female
+37,Yes,Non-Travel,Software Development,3,Computer Science,143,3,Male,4,Frontend Developer,1,12344,6,No,4,3,2,1,31,5,2,19,4,6,9,Male
+56,No,Non-Travel,Data Science,4,Engineering,144,3,Female,2,Machine Learning Engineer,3,14485,5,Yes,3,3,3,1,7,2,2,3,5,9,9,Female
+39,No,Travel_Rarely,Software Development,4,Computer Science,145,1,Male,3,Frontend Developer,3,14786,3,No,15,2,3,1,13,1,3,10,2,5,7,Female
+40,Yes,Travel_Frequently,Data Science,3,Mathematics,146,2,Male,4,Machine Learning Engineer,2,3816,3,No,11,2,1,3,18,0,1,11,2,8,4,Female
+41,No,Non-Travel,Cybersecurity,2,Mathematics,147,3,Male,2,Security Analyst,3,9285,3,No,10,1,3,0,20,3,4,15,4,0,2,Male
+52,No,Non-Travel,Software Development,3,Business Administration,148,1,Female,2,Backend Developer,1,11489,2,Yes,14,2,2,2,16,3,1,15,3,4,1,Female
+31,Yes,Travel_Rarely,Software Development,3,Information Technology,149,1,Female,4,Frontend Developer,1,4134,5,Yes,15,4,1,0,24,0,3,20,1,8,9,Female
+30,Yes,Non-Travel,Cybersecurity,2,Information Technology,150,1,Male,4,Security Analyst,2,3183,3,Yes,2,2,3,0,17,2,3,13,7,5,1,Male
+48,Yes,Travel_Frequently,Software Development,1,Engineering,151,3,Male,3,Frontend Developer,4,12713,5,No,10,4,4,1,32,5,3,14,6,5,6,Male
+32,No,Travel_Rarely,Data Science,4,Mathematics,152,1,Male,3,Data Scientist,3,9129,6,No,1,3,3,0,10,1,1,1,9,4,6,Female
+23,No,Travel_Frequently,Project Management,3,Engineering,153,2,Male,2,Agile Coach,4,6089,3,Yes,7,3,1,2,12,4,1,8,7,1,2,Female
+59,Yes,Non-Travel,Cybersecurity,1,Engineering,154,4,Female,2,Network Security Specialist,2,3685,3,Yes,18,1,2,1,24,5,4,1,10,1,10,Male
+53,No,Non-Travel,Software Development,4,Engineering,155,4,Female,4,Frontend Developer,2,4000,5,No,18,1,2,3,19,0,4,7,2,10,6,Female
+48,Yes,Travel_Frequently,IT Support,3,Engineering,156,4,Female,1,System Administrator,2,14510,2,No,5,2,2,1,25,0,4,4,1,5,7,Male
+26,No,Non-Travel,IT Support,1,Computer Science,157,4,Female,3,System Administrator,3,8955,3,Yes,19,4,4,3,10,3,1,6,6,4,1,Male
+23,Yes,Non-Travel,Data Science,2,Mathematics,158,2,Male,2,Data Analyst,2,10674,4,Yes,14,4,3,1,11,4,2,17,7,8,6,Female
+23,No,Travel_Frequently,Software Development,2,Engineering,159,4,Female,1,Software Engineer,1,6330,3,Yes,15,1,2,0,36,0,3,14,4,3,4,Male
+50,Yes,Travel_Frequently,IT Support,3,Mathematics,160,3,Female,3,Technical Support,1,7285,5,Yes,7,4,1,2,2,4,1,7,3,10,5,Male
+37,No,Non-Travel,Software Development,3,Engineering,161,2,Male,1,Software Engineer,1,12008,2,Yes,18,4,1,2,27,2,1,6,7,2,8,Male
+44,Yes,Non-Travel,Data Science,4,Mathematics,162,3,Female,4,Data Analyst,2,5043,4,No,20,3,3,0,31,4,1,9,1,0,3,Female
+22,No,Travel_Frequently,Software Development,4,Computer Science,163,1,Male,4,Full Stack Developer,4,12054,0,Yes,11,1,2,0,15,4,4,18,6,7,7,Male
+28,No,Travel_Frequently,Data Science,2,Business Administration,164,4,Male,1,Data Analyst,4,9378,0,No,7,3,3,1,28,1,1,5,10,7,3,Female
+35,Yes,Travel_Rarely,Data Science,3,Information Technology,165,2,Male,4,Data Analyst,3,13641,4,No,2,3,4,3,38,5,4,12,6,0,8,Female
+54,No,Travel_Frequently,Project Management,3,Engineering,166,4,Male,4,Scrum Master,1,12009,3,Yes,10,2,2,0,16,5,1,3,2,10,7,Male
+45,No,Travel_Rarely,Cybersecurity,4,Information Technology,167,3,Female,2,Network Security Specialist,2,12847,2,Yes,12,2,1,2,9,4,4,10,1,10,5,Male
+59,No,Travel_Frequently,Cybersecurity,1,Mathematics,168,1,Female,2,Network Security Specialist,4,7407,4,No,2,1,4,0,2,3,3,13,3,8,6,Male
+44,No,Travel_Frequently,Project Management,4,Mathematics,169,1,Male,1,Agile Coach,4,3237,3,No,20,1,2,1,18,3,1,7,8,4,2,Female
+58,Yes,Non-Travel,IT Support,1,Mathematics,170,3,Female,1,System Administrator,4,12534,2,No,18,4,2,3,22,4,3,14,5,3,4,Male
+22,Yes,Travel_Frequently,Cybersecurity,3,Computer Science,171,3,Male,1,Network Security Specialist,3,9756,6,No,19,1,1,0,28,2,3,12,2,4,10,Male
+34,No,Non-Travel,Software Development,2,Information Technology,172,3,Male,1,Frontend Developer,1,8891,1,Yes,14,3,4,3,20,4,3,20,2,0,2,Male
+32,No,Travel_Rarely,Data Science,2,Business Administration,173,3,Male,1,Data Analyst,1,12568,1,No,9,3,1,2,17,5,3,3,9,9,6,Female
+28,No,Travel_Rarely,Project Management,3,Information Technology,174,1,Female,2,Scrum Master,1,9175,3,Yes,5,2,2,2,2,4,4,6,4,8,8,Male
+33,Yes,Travel_Rarely,Software Development,2,Engineering,175,3,Male,2,Software Engineer,1,10141,2,No,11,4,4,0,24,4,1,8,10,7,4,Male
+46,No,Travel_Rarely,IT Support,4,Mathematics,176,3,Female,1,Helpdesk Analyst,4,7299,4,No,12,2,4,1,30,4,3,18,3,4,7,Male
+46,No,Travel_Frequently,Project Management,3,Engineering,177,2,Male,2,Scrum Master,2,10859,5,No,2,2,4,2,8,0,3,19,2,6,2,Female
+41,No,Travel_Frequently,Cybersecurity,4,Engineering,178,4,Female,3,Cybersecurity Engineer,3,4349,3,Yes,5,2,2,0,7,1,1,19,3,9,2,Male
+54,No,Non-Travel,IT Support,2,Engineering,179,1,Female,4,Technical Support,1,11561,5,No,14,1,4,1,11,3,2,17,7,7,2,Male
+44,Yes,Travel_Rarely,Cybersecurity,3,Information Technology,180,3,Female,1,Network Security Specialist,2,13885,6,Yes,15,3,3,0,29,1,4,20,5,3,9,Male
+39,Yes,Travel_Frequently,Software Development,2,Computer Science,181,2,Male,3,Frontend Developer,1,8619,5,No,12,2,1,2,14,5,1,17,8,6,3,Male
+48,No,Non-Travel,Project Management,4,Mathematics,182,1,Male,1,Scrum Master,2,12935,1,No,4,1,1,2,32,1,2,13,8,9,9,Female
+23,No,Travel_Rarely,IT Support,4,Engineering,183,2,Female,1,System Administrator,3,8689,5,No,16,1,4,3,34,3,3,15,6,3,1,Male
+25,Yes,Travel_Frequently,Cybersecurity,3,Engineering,184,3,Female,3,Cybersecurity Engineer,3,10925,4,No,3,2,1,0,7,1,4,11,6,4,10,Male
+56,Yes,Non-Travel,Cybersecurity,2,Engineering,185,4,Male,1,Network Security Specialist,2,13599,2,No,7,4,3,1,34,4,3,7,4,6,4,Male
+46,Yes,Travel_Rarely,Software Development,1,Information Technology,186,1,Male,2,Full Stack Developer,1,13780,4,No,2,2,1,3,4,0,3,9,3,7,1,Female
+33,No,Travel_Frequently,IT Support,2,Computer Science,187,3,Male,1,Helpdesk Analyst,2,14475,4,Yes,3,2,1,3,39,1,2,10,3,3,9,Male
+53,Yes,Travel_Frequently,IT Support,4,Engineering,188,3,Female,2,IT Specialist,1,5884,5,No,6,4,2,1,19,1,2,20,2,8,4,Male
+54,Yes,Travel_Frequently,IT Support,4,Engineering,189,3,Male,2,System Administrator,3,11609,5,Yes,15,4,1,2,19,0,1,8,1,3,4,Male
+32,No,Travel_Frequently,Cybersecurity,1,Computer Science,190,1,Female,2,Cybersecurity Engineer,3,10061,2,No,17,3,3,3,32,2,2,1,9,7,3,Male
+48,Yes,Non-Travel,IT Support,4,Computer Science,191,4,Male,4,System Administrator,2,5549,6,Yes,18,3,3,1,35,1,2,11,3,3,10,Male
+37,No,Travel_Rarely,Data Science,4,Engineering,192,4,Male,4,Data Scientist,2,11431,3,Yes,15,3,2,1,4,1,4,19,3,5,10,Female
+58,Yes,Travel_Rarely,Data Science,1,Information Technology,193,4,Male,3,Machine Learning Engineer,2,14799,6,No,16,4,4,1,6,2,4,3,5,3,2,Female
+38,No,Travel_Frequently,Cybersecurity,3,Engineering,194,2,Female,2,Security Analyst,2,14994,0,No,7,3,3,3,24,4,4,4,1,10,5,Male
+47,No,Non-Travel,Data Science,1,Computer Science,195,3,Male,4,Machine Learning Engineer,4,12237,2,Yes,13,4,3,0,24,3,4,5,8,8,7,Female
+51,Yes,Non-Travel,Project Management,3,Engineering,196,1,Female,4,Project Manager,3,4694,3,Yes,4,3,1,0,40,0,3,12,7,10,1,Male
+29,Yes,Travel_Frequently,Project Management,1,Engineering,197,3,Female,2,Scrum Master,3,6369,1,No,17,1,1,2,19,3,1,13,2,5,8,Male
+32,No,Non-Travel,Cybersecurity,3,Business Administration,198,4,Female,4,Cybersecurity Engineer,3,8559,0,Yes,2,3,4,2,14,5,2,13,1,2,8,Male
+22,Yes,Travel_Rarely,Project Management,1,Information Technology,199,2,Male,2,Project Manager,1,6555,6,Yes,2,4,3,2,28,4,1,13,5,9,1,Male
+42,Yes,Non-Travel,IT Support,2,Computer Science,200,3,Female,4,Helpdesk Analyst,4,11110,6,No,20,3,1,1,21,4,3,8,8,8,3,Male
+50,Yes,Non-Travel,Project Management,1,Mathematics,201,1,Female,3,Project Manager,4,3201,6,No,11,3,2,3,18,1,2,8,10,2,1,Male
+36,No,Non-Travel,IT Support,1,Mathematics,202,3,Male,2,Helpdesk Analyst,1,9892,6,No,7,2,3,1,4,4,1,10,8,7,5,Male
+38,Yes,Non-Travel,Project Management,1,Business Administration,203,3,Male,2,Agile Coach,1,13828,5,No,18,2,1,0,12,2,1,19,4,2,7,Female
+26,Yes,Travel_Frequently,Cybersecurity,4,Mathematics,204,2,Female,3,Network Security Specialist,4,14555,2,Yes,5,3,2,0,9,1,1,5,8,6,6,Male
+25,Yes,Travel_Rarely,IT Support,2,Engineering,205,3,Female,2,Helpdesk Analyst,2,9129,6,Yes,9,4,3,1,25,2,3,16,9,2,8,Male
+25,No,Travel_Rarely,Project Management,4,Information Technology,206,4,Female,1,Project Manager,2,8414,4,No,2,4,4,3,21,3,2,12,5,0,3,Female
+55,Yes,Non-Travel,Data Science,2,Information Technology,207,1,Female,2,Data Scientist,2,12454,1,No,2,1,3,3,22,1,4,7,1,7,9,Female
+51,Yes,Non-Travel,Project Management,2,Information Technology,208,4,Female,3,Scrum Master,3,11670,5,No,13,3,2,1,4,1,4,14,1,1,7,Female
+30,Yes,Non-Travel,Software Development,4,Mathematics,209,4,Male,1,Frontend Developer,4,7297,3,No,18,3,3,3,9,3,3,11,1,10,5,Male
+26,Yes,Non-Travel,Cybersecurity,4,Engineering,210,1,Female,2,Network Security Specialist,1,12900,6,Yes,4,4,3,2,17,4,3,10,6,1,3,Male
+56,Yes,Non-Travel,Data Science,4,Computer Science,211,2,Male,3,Machine Learning Engineer,2,3429,6,Yes,16,1,4,2,5,0,2,7,6,7,10,Female
+50,Yes,Non-Travel,Data Science,2,Engineering,212,4,Female,2,Data Analyst,2,10345,2,Yes,11,4,2,3,37,3,2,4,9,4,2,Female
+26,No,Non-Travel,Data Science,1,Mathematics,213,4,Male,1,Machine Learning Engineer,4,4612,1,Yes,19,3,4,0,39,3,4,3,6,7,7,Female
+44,Yes,Travel_Frequently,Cybersecurity,1,Information Technology,214,1,Female,3,Network Security Specialist,4,7163,5,Yes,1,1,4,3,33,1,3,10,1,7,4,Male
+60,No,Travel_Frequently,IT Support,1,Business Administration,215,2,Male,1,System Administrator,1,3213,3,Yes,11,1,1,1,14,1,4,2,7,3,3,Male
+47,Yes,Non-Travel,IT Support,2,Information Technology,216,2,Male,4,Helpdesk Analyst,4,6492,6,Yes,2,2,4,0,30,5,4,5,4,9,2,Male
+41,Yes,Travel_Frequently,Software Development,1,Computer Science,217,4,Female,3,Full Stack Developer,4,5258,1,No,8,3,2,0,25,0,1,12,1,2,5,Female
+55,No,Non-Travel,IT Support,3,Mathematics,218,3,Female,4,Helpdesk Analyst,1,13033,2,Yes,17,2,1,1,36,5,1,18,10,7,7,Male
+50,Yes,Non-Travel,Project Management,4,Engineering,219,4,Female,3,Scrum Master,3,10271,3,Yes,15,3,4,1,28,3,4,8,4,2,9,Female
+39,No,Travel_Rarely,Cybersecurity,4,Business Administration,220,1,Female,4,Network Security Specialist,1,6677,6,No,20,2,3,2,12,1,2,3,9,7,2,Male
+52,Yes,Travel_Rarely,Cybersecurity,1,Computer Science,221,3,Male,1,Cybersecurity Engineer,3,9398,2,Yes,1,3,2,0,29,5,1,12,6,5,9,Male
+34,Yes,Travel_Rarely,Cybersecurity,4,Computer Science,222,1,Female,2,Cybersecurity Engineer,4,3562,1,No,9,3,4,0,28,4,4,20,5,3,6,Male
+37,No,Travel_Rarely,IT Support,4,Engineering,223,1,Female,2,IT Specialist,3,12148,4,No,20,2,3,2,30,3,4,17,6,0,4,Male
+55,No,Non-Travel,Data Science,3,Information Technology,224,4,Male,4,Data Analyst,4,7233,5,Yes,20,2,4,1,18,2,1,1,9,0,9,Female
+40,No,Non-Travel,Data Science,4,Computer Science,225,3,Female,2,Machine Learning Engineer,2,14794,4,No,15,3,3,0,35,1,4,2,5,4,2,Female
+25,Yes,Travel_Rarely,IT Support,3,Computer Science,226,1,Female,4,System Administrator,1,13773,3,Yes,8,2,1,1,12,3,2,10,4,10,6,Male
+52,No,Travel_Frequently,Project Management,3,Business Administration,227,4,Female,4,Agile Coach,3,10674,4,Yes,20,3,3,0,8,0,1,20,10,1,7,Male
+22,Yes,Travel_Rarely,Project Management,2,Computer Science,228,1,Male,3,Agile Coach,4,9570,5,Yes,12,2,2,1,18,0,3,2,9,4,1,Female
+46,No,Travel_Rarely,Data Science,3,Engineering,229,1,Male,3,Data Scientist,2,12907,1,No,3,4,4,3,9,3,4,2,8,6,6,Female
+47,No,Travel_Rarely,Data Science,1,Information Technology,230,2,Male,4,Data Scientist,3,8769,3,Yes,5,3,3,0,16,0,3,10,6,4,4,Female
+53,No,Travel_Frequently,Project Management,1,Computer Science,231,3,Male,4,Project Manager,1,13800,5,No,5,1,3,3,18,5,2,13,1,7,4,Female
+41,No,Travel_Rarely,IT Support,1,Engineering,232,3,Female,2,Helpdesk Analyst,2,12738,2,Yes,13,4,2,0,12,3,4,18,4,6,4,Male
+51,No,Non-Travel,Project Management,1,Mathematics,233,3,Female,3,Scrum Master,2,12648,1,No,1,2,3,3,2,5,3,14,4,3,3,Male
+55,No,Travel_Rarely,Software Development,4,Computer Science,234,1,Male,3,Full Stack Developer,3,7270,5,Yes,16,4,2,2,35,3,3,4,10,1,6,Female
+44,Yes,Travel_Rarely,Software Development,1,Business Administration,235,4,Female,3,Full Stack Developer,4,6486,4,Yes,12,2,3,3,34,2,2,18,7,4,6,Female
+54,No,Travel_Rarely,Data Science,3,Information Technology,236,3,Female,1,Data Analyst,2,14940,4,No,12,3,1,1,28,3,2,19,3,10,3,Female
+53,Yes,Non-Travel,IT Support,4,Engineering,237,3,Male,3,System Administrator,2,14231,0,Yes,13,1,2,3,24,0,1,17,10,5,7,Male
+47,Yes,Non-Travel,Cybersecurity,2,Information Technology,238,3,Female,3,Cybersecurity Engineer,1,9623,4,No,1,1,1,2,25,0,4,4,6,4,3,Male
+23,Yes,Travel_Frequently,Software Development,1,Engineering,239,1,Female,2,Software Engineer,4,14370,1,No,11,1,2,1,8,1,3,17,10,5,9,Female
+36,No,Travel_Rarely,Project Management,2,Mathematics,240,1,Female,3,Scrum Master,3,9293,4,Yes,10,1,1,1,32,0,3,15,2,2,8,Male
+52,No,Travel_Frequently,Project Management,4,Information Technology,241,3,Male,1,Agile Coach,1,12746,3,No,13,4,4,1,24,3,1,18,2,8,10,Female
+37,Yes,Non-Travel,Cybersecurity,1,Engineering,242,3,Female,2,Network Security Specialist,2,13592,2,Yes,5,2,4,3,20,2,1,3,10,9,3,Male
+37,Yes,Travel_Frequently,Data Science,1,Computer Science,243,1,Female,4,Data Scientist,1,4383,0,Yes,2,2,2,0,8,5,3,20,1,10,5,Female
+39,No,Non-Travel,Cybersecurity,3,Mathematics,244,2,Female,2,Network Security Specialist,1,4253,4,Yes,1,4,3,1,25,4,1,15,8,5,7,Male
+42,No,Non-Travel,Data Science,4,Mathematics,245,1,Female,2,Data Analyst,1,6928,0,Yes,1,3,3,1,2,2,1,6,1,7,3,Female
+53,No,Travel_Rarely,Cybersecurity,3,Mathematics,246,2,Female,4,Cybersecurity Engineer,1,13462,6,No,9,4,4,2,24,5,2,4,10,1,2,Male
+36,No,Travel_Rarely,Software Development,4,Business Administration,247,4,Female,1,Frontend Developer,2,11940,5,No,2,4,3,0,1,0,1,15,3,5,2,Female
+56,No,Travel_Rarely,IT Support,4,Information Technology,248,2,Male,2,Helpdesk Analyst,1,7568,0,No,13,2,4,3,29,4,3,4,9,8,8,Male
+33,No,Travel_Rarely,Software Development,1,Engineering,249,4,Male,1,Frontend Developer,4,9249,1,Yes,6,1,2,3,39,1,2,12,4,9,5,Male
+27,No,Non-Travel,Software Development,2,Computer Science,250,1,Male,1,Frontend Developer,4,12830,1,Yes,1,4,1,0,24,0,3,1,9,6,3,Female
+38,No,Travel_Frequently,IT Support,4,Business Administration,251,4,Female,3,IT Specialist,1,10058,0,No,1,2,3,3,22,4,2,3,8,8,8,Male
+22,Yes,Non-Travel,Cybersecurity,4,Business Administration,252,4,Female,3,Network Security Specialist,1,9575,2,No,6,4,1,3,7,0,4,1,5,8,4,Male
+47,No,Travel_Frequently,Project Management,4,Engineering,253,2,Male,4,Agile Coach,4,13806,1,Yes,14,4,2,0,2,4,4,14,7,8,9,Female
+32,Yes,Non-Travel,Data Science,2,Business Administration,254,2,Female,1,Data Analyst,4,11484,5,Yes,4,1,4,0,25,0,1,14,6,4,5,Female
+46,Yes,Travel_Frequently,Project Management,3,Information Technology,255,3,Male,2,Scrum Master,3,4837,6,Yes,5,2,4,1,34,0,2,13,5,6,10,Male
+39,No,Non-Travel,Data Science,3,Information Technology,256,4,Female,1,Data Analyst,4,10602,5,Yes,17,1,4,1,21,5,3,9,9,10,6,Female
+48,Yes,Non-Travel,Software Development,4,Business Administration,257,3,Female,4,Backend Developer,1,7018,6,No,19,2,1,0,30,1,3,6,4,6,6,Female
+27,No,Travel_Frequently,Project Management,2,Business Administration,258,4,Male,1,Agile Coach,4,3502,5,No,17,2,1,3,29,0,3,20,8,2,2,Female
+31,No,Non-Travel,Project Management,4,Business Administration,259,3,Male,3,Project Manager,1,11894,4,Yes,3,1,3,0,8,5,1,3,4,2,5,Male
+46,Yes,Travel_Rarely,Software Development,3,Engineering,260,3,Male,1,Full Stack Developer,4,13852,0,No,15,1,4,1,39,2,4,20,2,4,3,Female
+29,No,Travel_Rarely,Software Development,3,Information Technology,261,1,Female,3,Backend Developer,3,12819,0,Yes,8,4,3,1,34,0,4,19,7,3,6,Female
+41,Yes,Travel_Rarely,IT Support,1,Engineering,262,2,Male,4,IT Specialist,1,7708,1,Yes,11,4,1,0,31,5,2,3,3,7,7,Male
+51,No,Non-Travel,Project Management,1,Business Administration,263,2,Female,4,Agile Coach,3,7328,4,No,3,3,1,0,2,3,4,14,8,7,9,Male
+44,No,Non-Travel,Project Management,3,Computer Science,264,2,Male,3,Scrum Master,4,3843,5,Yes,13,3,4,2,29,0,3,8,3,7,4,Male
+47,No,Non-Travel,Cybersecurity,1,Business Administration,265,3,Female,3,Cybersecurity Engineer,3,8767,5,Yes,19,3,4,2,18,1,2,19,1,0,2,Male
+40,Yes,Travel_Rarely,Software Development,1,Mathematics,266,2,Female,3,Backend Developer,3,10097,6,No,1,4,4,2,37,1,1,3,10,5,9,Female
+27,Yes,Travel_Rarely,Data Science,4,Computer Science,267,2,Male,3,Data Scientist,2,14294,6,Yes,20,4,4,3,35,5,3,17,3,6,5,Female
+46,Yes,Non-Travel,Data Science,2,Business Administration,268,2,Male,4,Machine Learning Engineer,4,4200,1,Yes,2,4,2,3,40,5,4,3,9,4,10,Female
+41,Yes,Travel_Rarely,Software Development,2,Computer Science,269,3,Female,1,Full Stack Developer,4,3778,0,Yes,4,2,2,3,37,1,3,5,1,8,3,Female
+52,No,Travel_Rarely,Software Development,3,Information Technology,270,3,Male,2,Software Engineer,2,14287,0,Yes,8,2,2,1,19,5,2,2,5,10,3,Male
+55,Yes,Travel_Frequently,Project Management,1,Computer Science,271,4,Female,1,Project Manager,2,7490,5,Yes,8,2,3,0,22,4,1,18,9,7,6,Female
+53,No,Travel_Frequently,Data Science,3,Information Technology,272,1,Female,4,Machine Learning Engineer,2,10890,6,No,15,2,4,3,37,2,4,20,9,5,2,Female
+59,Yes,Travel_Frequently,Software Development,2,Information Technology,273,3,Male,2,Backend Developer,2,6686,2,Yes,8,2,1,3,36,1,2,3,6,8,9,Male
+27,No,Travel_Rarely,IT Support,3,Engineering,274,1,Female,3,System Administrator,2,12931,6,Yes,19,3,4,2,8,0,3,12,10,0,2,Male
+56,Yes,Non-Travel,Project Management,4,Business Administration,275,3,Male,3,Agile Coach,1,8621,2,No,15,4,4,1,38,5,3,1,1,9,9,Male
+51,No,Non-Travel,IT Support,1,Engineering,276,3,Female,3,Helpdesk Analyst,2,10249,2,Yes,9,2,1,1,8,3,4,7,5,6,10,Male
+45,Yes,Non-Travel,Data Science,1,Information Technology,277,3,Female,2,Data Scientist,2,9672,0,No,4,3,3,3,6,4,4,15,10,5,5,Female
+34,No,Non-Travel,Data Science,4,Business Administration,278,1,Male,1,Machine Learning Engineer,4,11692,1,No,10,3,2,0,34,4,4,11,6,10,7,Female
+40,No,Travel_Rarely,Project Management,1,Mathematics,279,4,Male,2,Agile Coach,4,9356,4,Yes,10,2,3,3,29,0,1,2,7,7,7,Female
+23,Yes,Travel_Frequently,Data Science,4,Engineering,280,4,Female,3,Data Analyst,2,5797,1,Yes,10,2,4,0,34,1,2,13,1,4,1,Female
+38,No,Non-Travel,Cybersecurity,3,Information Technology,281,3,Female,3,Cybersecurity Engineer,2,11533,1,No,6,4,4,0,40,0,3,5,3,2,1,Male
+36,Yes,Non-Travel,Software Development,3,Business Administration,282,4,Female,3,Frontend Developer,4,8023,4,Yes,7,1,1,2,26,0,2,3,6,2,8,Female
+54,No,Non-Travel,Data Science,3,Computer Science,283,1,Female,2,Data Analyst,4,4850,3,Yes,17,4,3,1,38,0,1,1,10,7,2,Female
+22,No,Non-Travel,Software Development,4,Business Administration,284,1,Male,2,Backend Developer,4,9967,5,Yes,1,4,3,3,30,3,1,8,8,9,4,Female
+46,No,Non-Travel,Cybersecurity,3,Information Technology,285,1,Male,2,Security Analyst,3,5635,5,No,15,1,2,1,39,3,2,10,8,9,2,Male
+40,Yes,Travel_Rarely,Project Management,3,Mathematics,286,3,Male,3,Agile Coach,3,12641,6,Yes,6,3,4,2,6,1,2,15,10,0,9,Female
+44,Yes,Travel_Rarely,Project Management,4,Information Technology,287,2,Female,4,Scrum Master,1,13420,2,Yes,4,1,2,2,20,4,1,8,6,7,8,Male
+45,No,Travel_Rarely,Cybersecurity,4,Business Administration,288,1,Male,1,Network Security Specialist,1,3684,0,No,7,3,2,3,29,5,3,13,6,8,1,Male
+44,Yes,Travel_Frequently,Cybersecurity,4,Computer Science,289,1,Male,1,Cybersecurity Engineer,4,13512,0,No,2,4,4,0,22,2,1,1,5,3,1,Male
+34,No,Non-Travel,IT Support,2,Business Administration,290,1,Female,1,System Administrator,4,6272,3,Yes,4,2,2,1,8,0,1,10,2,8,10,Male
+24,No,Travel_Rarely,Data Science,4,Computer Science,291,4,Female,4,Data Analyst,1,9561,5,No,15,2,2,3,5,2,4,9,4,5,10,Female
+23,Yes,Travel_Frequently,Project Management,4,Information Technology,292,4,Male,1,Project Manager,4,10974,0,Yes,16,3,4,0,2,5,2,19,10,3,5,Male
+33,Yes,Non-Travel,IT Support,3,Business Administration,293,3,Male,3,System Administrator,3,6775,0,Yes,19,4,4,2,24,2,2,6,1,10,2,Male
+50,Yes,Travel_Frequently,IT Support,2,Information Technology,294,2,Male,2,Helpdesk Analyst,1,5139,1,No,15,3,4,0,14,4,1,2,1,0,1,Male
+41,No,Non-Travel,Cybersecurity,1,Business Administration,295,2,Female,2,Security Analyst,4,13597,3,Yes,18,4,3,1,1,0,2,3,6,1,6,Male
+45,Yes,Travel_Rarely,IT Support,1,Engineering,296,3,Female,3,IT Specialist,2,11972,6,Yes,5,4,3,0,1,0,3,19,8,1,6,Male
+43,No,Travel_Rarely,Project Management,4,Mathematics,297,1,Male,3,Project Manager,4,9597,6,Yes,12,3,1,3,36,5,1,17,4,8,7,Male
+22,Yes,Travel_Frequently,IT Support,2,Engineering,298,3,Female,1,Technical Support,3,11268,0,Yes,16,3,1,1,30,3,2,18,1,3,2,Male
+35,Yes,Travel_Frequently,Software Development,3,Information Technology,299,3,Female,2,Software Engineer,1,3759,4,Yes,20,4,4,2,34,0,4,10,8,1,8,Female
+22,Yes,Travel_Frequently,Cybersecurity,3,Information Technology,300,4,Male,2,Cybersecurity Engineer,3,13402,5,Yes,10,4,1,1,12,1,3,19,10,3,8,Male
+38,Yes,Travel_Rarely,Project Management,3,Information Technology,301,4,Female,1,Scrum Master,1,14761,5,No,10,3,3,3,13,0,3,10,10,6,3,Male
+30,No,Non-Travel,IT Support,3,Computer Science,302,4,Male,3,Helpdesk Analyst,1,11580,6,No,5,1,1,0,28,3,4,13,4,8,8,Male
+47,Yes,Non-Travel,Software Development,3,Computer Science,303,4,Male,4,Software Engineer,1,11089,1,No,12,1,2,3,1,0,2,18,4,0,2,Male
+48,Yes,Travel_Frequently,Project Management,4,Mathematics,304,2,Male,1,Project Manager,3,13717,0,Yes,4,2,2,3,37,5,2,4,10,2,3,Male
+52,Yes,Travel_Rarely,Software Development,4,Computer Science,305,1,Female,3,Frontend Developer,1,8608,4,No,11,2,3,2,22,1,1,14,10,8,9,Female
+50,No,Travel_Rarely,Software Development,2,Information Technology,306,3,Female,3,Backend Developer,2,6074,2,No,14,4,4,1,15,4,3,18,8,8,6,Female
+54,No,Non-Travel,Software Development,1,Information Technology,307,3,Male,4,Backend Developer,4,3370,5,Yes,3,2,1,0,28,4,4,6,4,8,9,Female
+38,No,Non-Travel,Cybersecurity,3,Information Technology,308,2,Male,3,Cybersecurity Engineer,3,3475,2,Yes,6,1,1,3,32,1,1,17,6,8,7,Male
+50,No,Travel_Rarely,Data Science,2,Business Administration,309,4,Female,2,Data Analyst,1,10524,1,No,2,4,2,0,25,3,4,6,9,4,2,Female
+45,Yes,Travel_Rarely,Data Science,2,Engineering,310,4,Male,4,Machine Learning Engineer,4,4974,1,Yes,7,4,2,2,8,0,2,20,4,1,4,Female
+53,No,Travel_Rarely,Software Development,3,Engineering,311,1,Male,1,Frontend Developer,3,6041,4,No,8,2,3,3,24,4,3,5,2,0,5,Female
+58,No,Travel_Rarely,Software Development,1,Computer Science,312,1,Male,3,Backend Developer,2,3969,5,No,19,4,3,3,15,0,2,4,9,5,8,Male
+46,No,Travel_Rarely,Project Management,3,Information Technology,313,1,Female,2,Agile Coach,3,7655,1,Yes,9,1,1,3,31,0,2,6,5,9,2,Male
+49,No,Non-Travel,Project Management,1,Information Technology,314,1,Male,2,Agile Coach,1,9784,3,Yes,15,1,2,2,14,2,1,14,5,8,3,Female
+37,No,Non-Travel,Project Management,4,Business Administration,315,4,Female,4,Project Manager,4,7908,3,Yes,18,2,3,0,27,4,2,14,10,3,7,Female
+26,Yes,Travel_Frequently,Data Science,3,Business Administration,316,3,Female,3,Data Scientist,3,4060,4,No,1,4,2,1,15,4,3,10,1,5,7,Female
+54,Yes,Travel_Rarely,Project Management,3,Computer Science,317,2,Male,1,Agile Coach,2,14594,1,Yes,18,3,2,0,5,0,4,19,2,10,1,Male
+29,No,Travel_Rarely,Cybersecurity,3,Engineering,318,1,Female,3,Cybersecurity Engineer,3,14172,5,No,19,4,2,2,16,1,1,4,1,5,3,Male
+42,Yes,Non-Travel,Project Management,4,Computer Science,319,1,Male,1,Scrum Master,4,4653,1,No,18,1,4,1,39,4,3,11,10,4,4,Female
+23,No,Travel_Rarely,Project Management,4,Engineering,320,3,Male,4,Agile Coach,4,3062,5,Yes,18,1,1,3,18,2,4,3,9,10,9,Female
+60,No,Travel_Frequently,Cybersecurity,2,Information Technology,321,2,Female,2,Network Security Specialist,4,8043,6,No,1,1,3,1,18,0,4,20,6,3,6,Male
+56,No,Travel_Rarely,Software Development,2,Business Administration,322,1,Male,1,Frontend Developer,1,3355,4,No,6,4,2,3,38,2,2,12,5,10,3,Male
+44,Yes,Travel_Frequently,Cybersecurity,3,Business Administration,323,4,Male,2,Network Security Specialist,1,4677,0,Yes,17,4,3,1,26,0,4,10,1,6,10,Male
+50,Yes,Non-Travel,Project Management,2,Engineering,324,1,Male,3,Project Manager,3,10076,2,Yes,2,1,3,1,14,4,1,15,4,8,6,Female
+39,Yes,Non-Travel,Project Management,1,Computer Science,325,3,Female,2,Project Manager,4,9462,4,Yes,7,1,4,1,32,1,4,3,9,4,3,Female
+31,Yes,Travel_Frequently,Project Management,2,Computer Science,326,4,Female,1,Agile Coach,2,4236,4,No,20,2,3,3,34,1,1,5,10,9,7,Female
+60,No,Non-Travel,IT Support,3,Computer Science,327,2,Female,3,Helpdesk Analyst,1,5684,5,Yes,6,2,2,1,35,0,4,7,7,2,10,Male
+47,Yes,Travel_Frequently,Software Development,4,Engineering,328,3,Female,1,Frontend Developer,3,13821,5,Yes,6,1,1,2,27,0,1,18,7,2,6,Female
+33,Yes,Travel_Rarely,Cybersecurity,4,Computer Science,329,4,Female,4,Cybersecurity Engineer,2,13636,0,Yes,12,1,4,2,5,4,1,6,10,2,10,Male
+55,No,Non-Travel,Project Management,2,Business Administration,330,3,Female,3,Scrum Master,4,3363,6,No,13,2,3,3,23,5,4,15,6,7,9,Male
+32,No,Non-Travel,Cybersecurity,4,Mathematics,331,3,Female,3,Network Security Specialist,4,9888,1,Yes,3,3,1,1,9,0,1,18,9,2,6,Male
+44,Yes,Non-Travel,Data Science,1,Business Administration,332,4,Female,1,Data Scientist,4,6088,0,Yes,19,3,2,3,23,4,2,3,2,9,3,Female
+55,Yes,Non-Travel,Project Management,1,Computer Science,333,4,Male,3,Scrum Master,3,9700,5,No,9,2,2,1,8,2,4,14,10,4,3,Female
+28,Yes,Travel_Rarely,Project Management,2,Engineering,334,1,Male,2,Scrum Master,4,7392,5,No,10,2,3,2,3,2,2,10,7,6,1,Male
+26,Yes,Travel_Frequently,Project Management,2,Information Technology,335,3,Female,3,Agile Coach,4,11618,0,No,14,1,1,2,37,1,4,10,5,6,3,Female
+26,No,Non-Travel,Software Development,3,Computer Science,336,3,Female,3,Full Stack Developer,3,4509,5,Yes,16,2,1,2,29,2,1,20,2,8,9,Female
+26,No,Travel_Frequently,Software Development,4,Information Technology,337,1,Male,4,Backend Developer,2,9200,0,No,18,3,4,3,35,2,1,20,9,1,7,Female
+28,Yes,Travel_Frequently,Software Development,3,Information Technology,338,3,Male,1,Software Engineer,1,14513,4,No,15,2,2,0,16,2,4,11,10,8,6,Male
+37,Yes,Travel_Frequently,Project Management,2,Engineering,339,2,Male,3,Scrum Master,2,12765,5,No,13,4,1,2,13,4,2,18,9,8,8,Female
+29,No,Travel_Rarely,Data Science,2,Information Technology,340,4,Male,1,Data Analyst,2,12681,0,Yes,11,3,1,2,35,1,2,13,6,4,9,Female
+60,No,Non-Travel,Data Science,1,Business Administration,341,2,Male,1,Machine Learning Engineer,3,3495,1,Yes,11,1,3,1,31,1,4,15,8,3,9,Female
+41,Yes,Travel_Rarely,Software Development,1,Engineering,342,4,Male,1,Full Stack Developer,3,5752,1,Yes,12,1,3,2,4,3,2,13,6,0,4,Female
+53,No,Travel_Frequently,Software Development,3,Computer Science,343,3,Female,4,Frontend Developer,2,6333,2,Yes,9,3,2,3,25,2,3,14,9,8,10,Male
+30,Yes,Non-Travel,Data Science,2,Computer Science,344,1,Male,1,Machine Learning Engineer,3,4239,5,No,14,1,2,3,22,1,1,4,10,5,8,Female
+51,Yes,Non-Travel,Cybersecurity,4,Computer Science,345,4,Female,4,Security Analyst,3,8916,6,Yes,20,3,1,3,8,5,3,12,3,2,7,Male
+56,No,Non-Travel,Software Development,3,Business Administration,346,1,Male,3,Full Stack Developer,4,4511,0,No,9,1,1,0,4,5,3,15,6,8,3,Male
+57,No,Non-Travel,Data Science,3,Mathematics,347,4,Male,3,Data Analyst,2,14350,6,No,2,3,1,3,32,4,3,8,4,0,7,Female
+57,No,Non-Travel,Cybersecurity,4,Business Administration,348,3,Male,3,Network Security Specialist,3,8233,1,Yes,1,1,2,0,38,1,1,5,1,9,1,Male
+23,No,Non-Travel,IT Support,2,Mathematics,349,3,Male,2,Technical Support,2,12893,0,Yes,5,2,1,3,34,3,3,3,2,8,9,Male
+35,Yes,Travel_Frequently,Cybersecurity,1,Business Administration,350,2,Male,2,Network Security Specialist,3,14876,6,Yes,15,4,2,1,22,0,3,7,6,4,2,Male
+51,Yes,Non-Travel,Cybersecurity,3,Business Administration,351,1,Female,3,Cybersecurity Engineer,4,9679,3,Yes,4,2,1,0,8,5,4,6,5,4,10,Male
+56,Yes,Non-Travel,IT Support,3,Mathematics,352,4,Male,3,System Administrator,1,8530,0,Yes,18,3,2,3,17,2,1,20,10,7,9,Male
+53,No,Travel_Frequently,Cybersecurity,4,Business Administration,353,1,Male,3,Security Analyst,1,5169,4,No,8,3,3,0,39,4,3,13,10,3,3,Male
+28,No,Travel_Frequently,IT Support,1,Business Administration,354,2,Female,3,IT Specialist,3,4209,4,Yes,5,3,2,1,23,5,2,17,9,7,6,Male
+43,Yes,Non-Travel,Cybersecurity,4,Computer Science,355,3,Female,3,Network Security Specialist,3,6910,0,No,16,3,1,2,34,0,2,8,4,10,4,Male
+57,No,Non-Travel,IT Support,4,Information Technology,356,2,Female,3,System Administrator,4,9619,2,Yes,12,4,1,2,18,5,2,3,1,3,5,Male
+30,Yes,Travel_Frequently,Data Science,2,Mathematics,357,1,Male,3,Data Scientist,3,3302,4,Yes,12,3,4,0,26,5,1,16,10,8,2,Female
+56,No,Travel_Rarely,Software Development,4,Computer Science,358,1,Female,1,Frontend Developer,4,10666,0,Yes,18,2,1,0,36,4,3,9,1,3,7,Female
+57,Yes,Non-Travel,Software Development,1,Computer Science,359,3,Female,4,Software Engineer,4,14789,1,Yes,5,1,3,0,37,1,3,5,6,8,4,Male
+46,No,Travel_Frequently,Software Development,1,Mathematics,360,2,Female,1,Software Engineer,3,14250,0,No,13,4,1,2,1,5,2,15,7,2,3,Male
+27,Yes,Travel_Rarely,Cybersecurity,3,Mathematics,361,4,Male,4,Security Analyst,3,3232,1,Yes,19,3,1,3,3,1,3,18,2,4,6,Male
+56,No,Non-Travel,Data Science,3,Business Administration,362,1,Female,2,Data Analyst,1,7722,5,No,9,4,2,0,17,3,3,10,8,0,10,Female
+28,Yes,Travel_Rarely,Cybersecurity,2,Computer Science,363,4,Male,1,Security Analyst,1,11543,4,Yes,6,3,3,0,22,4,1,7,1,9,3,Male
+33,No,Travel_Frequently,Data Science,3,Mathematics,364,2,Male,2,Data Scientist,1,8701,3,No,13,4,2,3,12,3,1,15,9,3,10,Female
+59,Yes,Non-Travel,Project Management,4,Mathematics,365,2,Female,2,Project Manager,4,8073,3,Yes,4,1,2,0,34,2,3,6,3,4,3,Female
+54,No,Travel_Frequently,Cybersecurity,2,Engineering,366,1,Female,1,Security Analyst,3,12428,1,No,8,3,3,3,19,5,1,17,5,9,8,Male
+44,Yes,Non-Travel,Project Management,1,Mathematics,367,2,Male,4,Scrum Master,3,12443,2,No,1,4,2,3,37,4,4,17,6,8,2,Female
+34,Yes,Non-Travel,Cybersecurity,3,Information Technology,368,3,Male,2,Network Security Specialist,3,14603,0,No,16,1,1,2,25,4,2,8,7,1,7,Male
+51,Yes,Travel_Frequently,IT Support,4,Engineering,369,4,Female,1,IT Specialist,1,14506,4,Yes,18,4,4,1,35,4,4,7,4,1,8,Male
+24,No,Non-Travel,Data Science,1,Information Technology,370,4,Male,3,Machine Learning Engineer,3,11207,5,No,1,3,4,0,14,5,3,6,6,9,6,Female
+39,No,Travel_Rarely,Data Science,1,Information Technology,371,3,Female,3,Machine Learning Engineer,3,8698,3,Yes,17,4,1,3,40,3,1,11,7,0,6,Female
+34,No,Travel_Frequently,Cybersecurity,3,Computer Science,372,2,Female,1,Cybersecurity Engineer,3,11614,6,No,1,4,1,1,11,1,4,3,5,1,9,Male
+55,No,Travel_Frequently,Data Science,4,Information Technology,373,1,Female,4,Machine Learning Engineer,2,9033,2,No,6,3,4,2,27,5,4,9,9,2,2,Female
+34,No,Non-Travel,IT Support,2,Engineering,374,1,Female,4,IT Specialist,1,7021,2,No,3,4,2,1,39,2,4,17,1,5,7,Male
+55,Yes,Travel_Frequently,IT Support,3,Computer Science,375,3,Female,1,Helpdesk Analyst,1,9904,5,Yes,11,2,4,1,22,4,2,8,4,8,1,Male
+31,No,Travel_Frequently,Software Development,2,Mathematics,376,4,Female,1,Software Engineer,4,4202,0,Yes,3,2,3,0,5,3,3,3,7,4,2,Male
+33,No,Travel_Frequently,IT Support,2,Mathematics,377,4,Female,4,System Administrator,3,4236,4,Yes,15,2,2,3,6,1,1,18,2,5,9,Male
+43,No,Travel_Frequently,Project Management,3,Mathematics,378,4,Female,1,Project Manager,4,13529,5,No,13,3,4,1,28,2,2,9,10,6,1,Female
+53,No,Travel_Rarely,IT Support,1,Information Technology,379,1,Female,3,Helpdesk Analyst,3,4173,4,No,12,2,4,0,28,3,2,16,7,4,8,Male
+35,Yes,Travel_Rarely,IT Support,1,Engineering,380,1,Male,1,Helpdesk Analyst,2,8317,6,Yes,16,4,3,3,8,1,3,6,2,7,2,Male
+40,Yes,Non-Travel,IT Support,1,Mathematics,381,4,Male,2,Technical Support,1,8036,5,Yes,19,1,4,3,16,4,2,16,6,6,8,Male
+28,Yes,Non-Travel,IT Support,2,Information Technology,382,1,Female,4,Helpdesk Analyst,3,6487,1,No,4,1,3,0,17,4,1,20,1,3,7,Male
+31,Yes,Non-Travel,Cybersecurity,1,Information Technology,383,3,Female,1,Security Analyst,4,10371,3,Yes,11,4,3,3,31,3,3,16,8,7,2,Male
+34,Yes,Travel_Frequently,Cybersecurity,2,Engineering,384,1,Female,1,Cybersecurity Engineer,2,10449,1,No,16,2,1,3,5,3,2,8,5,7,9,Male
+38,Yes,Non-Travel,IT Support,1,Information Technology,385,2,Female,3,IT Specialist,3,11422,0,No,20,3,3,1,9,3,3,2,4,7,1,Male
+34,No,Travel_Frequently,Project Management,4,Business Administration,386,3,Female,3,Agile Coach,2,7922,4,Yes,13,2,4,0,31,3,1,2,9,10,9,Male
+49,No,Travel_Rarely,IT Support,4,Computer Science,387,1,Female,4,IT Specialist,1,7935,0,No,12,4,2,1,5,0,3,15,7,6,5,Male
+27,No,Travel_Frequently,IT Support,4,Engineering,388,2,Female,4,Technical Support,2,9989,4,Yes,12,4,3,0,27,0,3,20,5,3,1,Male
+51,No,Travel_Frequently,Cybersecurity,4,Business Administration,389,3,Female,1,Network Security Specialist,1,6160,4,No,11,4,3,2,35,1,1,8,2,3,3,Male
+46,Yes,Travel_Rarely,Project Management,3,Business Administration,390,2,Female,3,Project Manager,2,12185,2,No,14,3,4,0,22,4,2,4,1,2,7,Male
+33,No,Travel_Rarely,Software Development,2,Engineering,391,3,Male,3,Software Engineer,2,8389,1,No,2,3,3,3,5,0,1,18,6,6,10,Male
+53,No,Non-Travel,Software Development,2,Engineering,392,3,Female,1,Software Engineer,1,9500,1,No,15,1,3,3,9,0,2,16,9,0,5,Male
+57,Yes,Travel_Rarely,Data Science,4,Information Technology,393,1,Female,1,Data Analyst,3,5772,3,Yes,15,1,3,0,27,4,4,6,4,8,7,Female
+50,No,Non-Travel,Cybersecurity,1,Business Administration,394,2,Female,2,Cybersecurity Engineer,4,12856,6,Yes,10,4,4,3,31,2,2,3,8,0,3,Male
+54,No,Non-Travel,Data Science,1,Engineering,395,4,Male,4,Data Scientist,4,3370,3,Yes,2,3,4,0,1,0,2,1,3,3,1,Female
+42,No,Travel_Frequently,Software Development,4,Engineering,396,2,Female,1,Software Engineer,4,12629,0,No,2,3,2,3,13,5,2,20,3,5,1,Male
+36,Yes,Non-Travel,Project Management,4,Computer Science,397,4,Female,3,Scrum Master,3,11502,1,Yes,19,2,1,3,16,1,1,16,4,8,10,Female
+41,No,Non-Travel,Project Management,2,Information Technology,398,1,Female,4,Project Manager,4,8169,1,Yes,11,3,4,2,28,4,4,5,2,2,6,Female
+32,Yes,Travel_Rarely,IT Support,2,Information Technology,399,3,Male,1,Technical Support,2,14299,1,Yes,17,4,2,0,38,0,3,8,2,7,6,Male
+34,No,Travel_Frequently,Cybersecurity,3,Business Administration,400,1,Female,2,Security Analyst,4,7753,4,No,13,1,3,2,22,5,3,6,4,2,4,Male
+48,No,Travel_Frequently,Data Science,3,Business Administration,401,2,Male,2,Data Scientist,1,14348,3,No,15,1,3,0,9,0,1,18,8,0,4,Female
+29,No,Non-Travel,Project Management,2,Business Administration,402,3,Female,2,Agile Coach,2,9678,0,No,12,4,4,1,32,2,2,14,7,10,6,Male
+24,Yes,Travel_Frequently,Cybersecurity,2,Computer Science,403,2,Female,4,Cybersecurity Engineer,2,11636,5,No,8,2,3,3,10,4,2,4,8,3,4,Male
+47,Yes,Non-Travel,Software Development,1,Mathematics,404,4,Female,2,Full Stack Developer,4,13555,1,No,5,3,3,0,7,0,2,14,3,1,10,Female
+39,No,Travel_Rarely,IT Support,4,Mathematics,405,4,Male,2,System Administrator,3,6651,4,No,3,3,4,1,8,4,1,7,5,9,9,Male
+26,Yes,Travel_Frequently,Data Science,2,Engineering,406,4,Female,3,Data Scientist,4,5180,4,Yes,13,1,4,3,5,1,3,12,5,4,5,Female
+50,No,Travel_Frequently,IT Support,2,Mathematics,407,3,Male,3,Helpdesk Analyst,2,10075,5,Yes,1,1,2,1,22,2,4,6,9,10,2,Male
+40,Yes,Travel_Rarely,Cybersecurity,1,Computer Science,408,2,Female,2,Cybersecurity Engineer,4,11080,5,No,16,3,3,3,22,5,4,15,8,6,5,Male
+37,Yes,Travel_Frequently,Software Development,2,Computer Science,409,4,Male,4,Software Engineer,4,8651,0,No,1,2,3,0,38,3,3,19,8,2,9,Female
+46,No,Non-Travel,Project Management,1,Business Administration,410,2,Female,1,Project Manager,3,7448,4,No,5,4,1,2,2,2,2,12,7,9,1,Female
+55,Yes,Travel_Frequently,Project Management,2,Mathematics,411,3,Female,3,Project Manager,4,14311,4,Yes,1,4,1,1,18,3,2,15,2,4,3,Female
+59,No,Non-Travel,Project Management,1,Business Administration,412,2,Male,1,Agile Coach,1,9023,3,No,8,1,3,3,30,3,2,7,2,5,4,Female
+36,No,Travel_Rarely,IT Support,3,Computer Science,413,1,Female,4,IT Specialist,3,4706,1,Yes,13,3,1,2,36,2,3,1,2,6,5,Male
+42,Yes,Travel_Rarely,Cybersecurity,3,Information Technology,414,2,Female,2,Cybersecurity Engineer,3,7456,3,No,8,1,1,0,8,1,4,2,1,2,5,Male
+49,Yes,Non-Travel,Cybersecurity,3,Business Administration,415,3,Female,1,Cybersecurity Engineer,4,13736,6,No,9,2,3,0,21,5,1,18,8,9,5,Male
+23,Yes,Travel_Rarely,Project Management,2,Engineering,416,1,Female,3,Scrum Master,1,5830,5,Yes,19,3,4,1,11,0,1,4,6,4,9,Male
+44,No,Travel_Frequently,Project Management,4,Engineering,417,3,Male,3,Project Manager,1,3900,5,Yes,1,4,2,3,24,2,2,10,10,10,9,Female
+25,Yes,Non-Travel,Software Development,2,Information Technology,418,4,Male,4,Backend Developer,2,12022,4,No,8,1,1,0,1,0,1,11,6,5,8,Male
+53,No,Non-Travel,IT Support,1,Computer Science,419,3,Female,4,Helpdesk Analyst,1,12747,5,No,4,3,1,0,29,1,4,6,3,3,6,Male
+47,No,Travel_Frequently,Project Management,3,Engineering,420,2,Female,2,Agile Coach,4,6894,5,Yes,9,4,4,0,16,1,3,16,2,3,3,Female
+55,No,Travel_Frequently,IT Support,3,Information Technology,421,4,Female,4,Technical Support,2,3579,2,No,10,4,2,3,24,1,4,3,5,3,3,Male
+39,No,Travel_Frequently,Cybersecurity,4,Business Administration,422,3,Male,1,Security Analyst,3,13203,2,Yes,15,2,3,3,22,3,4,15,2,4,3,Male
+37,No,Travel_Frequently,Data Science,1,Information Technology,423,2,Male,3,Data Scientist,1,11879,0,No,19,2,4,3,4,2,4,10,5,9,5,Female
+47,No,Non-Travel,Cybersecurity,4,Computer Science,424,1,Female,1,Cybersecurity Engineer,4,6430,0,No,4,4,3,1,8,2,3,1,5,7,4,Male
+53,No,Travel_Rarely,Software Development,1,Engineering,425,1,Male,1,Software Engineer,1,14183,3,Yes,9,4,4,2,36,1,3,4,10,1,2,Male
+38,No,Travel_Frequently,Project Management,1,Mathematics,426,3,Male,2,Scrum Master,4,10378,4,No,6,2,1,3,5,0,1,4,4,5,10,Male
+30,No,Travel_Rarely,Project Management,1,Information Technology,427,2,Female,1,Scrum Master,2,3231,1,Yes,12,1,2,1,12,4,2,1,4,2,5,Female
+46,No,Non-Travel,Project Management,3,Business Administration,428,4,Male,4,Agile Coach,4,10207,3,Yes,13,2,1,3,24,2,4,19,9,9,10,Male
+26,Yes,Non-Travel,IT Support,3,Mathematics,429,3,Male,2,Helpdesk Analyst,2,8551,0,Yes,3,1,4,0,13,1,1,15,5,3,6,Male
+40,Yes,Travel_Frequently,IT Support,3,Computer Science,430,2,Female,3,Helpdesk Analyst,1,6342,5,Yes,15,1,3,3,21,4,1,5,10,0,5,Male
+27,Yes,Non-Travel,Project Management,3,Engineering,431,2,Male,3,Project Manager,4,14082,3,No,2,4,4,3,23,4,3,18,3,1,3,Female
+40,Yes,Travel_Frequently,IT Support,2,Information Technology,432,4,Female,4,System Administrator,1,11423,2,Yes,15,1,3,2,30,3,1,9,1,10,7,Male
+31,No,Travel_Rarely,Data Science,1,Information Technology,433,1,Female,3,Data Scientist,4,6710,5,No,16,3,2,0,35,0,1,2,3,9,2,Female
+35,No,Travel_Frequently,IT Support,1,Business Administration,434,3,Female,4,Helpdesk Analyst,3,8782,1,No,20,2,3,0,37,5,2,1,3,5,5,Male
+25,Yes,Travel_Frequently,Software Development,2,Mathematics,435,1,Male,1,Backend Developer,3,8998,3,No,13,4,1,0,30,5,3,6,2,0,6,Female
+36,No,Non-Travel,Data Science,2,Mathematics,436,2,Male,1,Data Analyst,3,9297,0,Yes,16,2,3,1,18,5,1,12,5,6,9,Female
+39,No,Non-Travel,Cybersecurity,4,Information Technology,437,4,Female,4,Cybersecurity Engineer,1,3669,1,Yes,14,4,3,1,18,3,4,20,2,6,8,Male
+22,Yes,Travel_Rarely,Cybersecurity,2,Information Technology,438,4,Female,4,Security Analyst,2,7779,5,Yes,3,4,3,2,38,2,4,11,4,10,8,Male
+40,No,Non-Travel,Data Science,4,Computer Science,439,2,Male,3,Machine Learning Engineer,1,7104,6,No,19,2,4,0,28,1,1,6,10,9,7,Female
+39,No,Travel_Rarely,Project Management,3,Engineering,440,1,Female,3,Project Manager,4,11639,5,Yes,1,1,2,1,32,3,1,18,9,4,2,Male
+40,No,Travel_Frequently,Cybersecurity,2,Engineering,441,1,Female,3,Security Analyst,4,12384,1,No,2,4,4,2,17,1,1,1,5,6,7,Male
+34,No,Travel_Frequently,Cybersecurity,3,Engineering,442,4,Male,2,Cybersecurity Engineer,1,8603,2,Yes,2,1,3,3,1,5,2,8,7,7,5,Male
+38,No,Non-Travel,Project Management,2,Engineering,443,4,Female,1,Agile Coach,4,4693,1,No,6,2,1,1,15,1,2,10,9,3,1,Female
+41,Yes,Non-Travel,Data Science,4,Engineering,444,1,Female,1,Data Scientist,2,10326,2,No,19,3,2,2,29,5,3,3,4,0,8,Female
+45,Yes,Travel_Rarely,Data Science,3,Mathematics,445,3,Female,4,Data Scientist,4,5649,5,Yes,16,4,4,1,22,0,2,3,8,10,9,Female
+27,Yes,Non-Travel,IT Support,3,Information Technology,446,1,Male,4,IT Specialist,4,5627,2,No,1,1,3,2,20,5,1,19,9,1,8,Male
+53,Yes,Travel_Frequently,IT Support,2,Information Technology,447,3,Male,1,System Administrator,1,4176,0,No,6,3,2,2,36,3,2,8,10,10,7,Male
+36,No,Non-Travel,Cybersecurity,2,Information Technology,448,1,Male,2,Security Analyst,2,11759,0,No,17,1,4,2,36,3,1,3,2,1,1,Male
+30,Yes,Non-Travel,Data Science,2,Engineering,449,3,Male,1,Machine Learning Engineer,2,11485,2,No,16,1,1,0,7,0,2,2,2,1,4,Female
+47,Yes,Non-Travel,Cybersecurity,2,Computer Science,450,4,Female,3,Cybersecurity Engineer,3,7281,1,Yes,15,1,3,2,5,5,1,11,9,9,10,Male
+23,Yes,Travel_Rarely,Project Management,1,Computer Science,451,2,Male,1,Scrum Master,4,4500,0,No,16,4,2,3,7,3,1,18,6,2,9,Male
+43,No,Travel_Rarely,Software Development,2,Business Administration,452,3,Male,3,Frontend Developer,1,11693,2,No,3,1,4,3,33,3,4,8,3,9,2,Male
+54,No,Non-Travel,IT Support,2,Engineering,453,2,Male,4,System Administrator,3,8541,5,Yes,7,4,4,0,8,3,2,3,4,6,1,Male
+45,No,Travel_Rarely,Cybersecurity,3,Mathematics,454,2,Female,2,Cybersecurity Engineer,2,12828,0,No,1,3,1,2,20,3,3,13,8,9,2,Male
+56,No,Travel_Rarely,Software Development,3,Computer Science,455,4,Female,1,Full Stack Developer,3,12674,2,No,5,3,2,0,30,0,1,4,6,1,6,Female
+25,Yes,Non-Travel,Cybersecurity,4,Computer Science,456,2,Male,2,Security Analyst,3,8671,6,No,6,1,2,2,15,4,3,5,6,10,10,Male
+22,No,Non-Travel,Software Development,4,Engineering,457,1,Male,4,Backend Developer,1,13830,5,Yes,13,4,4,2,16,2,3,8,6,7,7,Male
+41,No,Travel_Frequently,Software Development,3,Information Technology,458,2,Female,3,Full Stack Developer,2,7743,6,No,11,2,1,2,9,2,4,6,5,5,1,Female
+40,Yes,Non-Travel,Data Science,4,Information Technology,459,3,Female,4,Data Analyst,4,7199,1,Yes,9,1,4,0,7,2,3,8,10,5,2,Female
+34,No,Travel_Rarely,Project Management,3,Business Administration,460,3,Female,3,Agile Coach,1,12635,5,Yes,4,1,2,2,34,1,3,15,4,6,3,Male
+52,No,Non-Travel,Cybersecurity,3,Business Administration,461,1,Female,2,Network Security Specialist,1,4182,1,Yes,11,2,2,3,39,0,2,18,9,3,10,Male
+28,No,Travel_Rarely,Data Science,2,Business Administration,462,3,Male,3,Data Analyst,3,6283,4,Yes,11,1,3,3,13,5,2,4,6,2,1,Female
+44,No,Non-Travel,IT Support,2,Computer Science,463,3,Female,3,Technical Support,3,8038,1,No,3,2,2,3,12,2,1,19,10,8,9,Male
+28,Yes,Travel_Frequently,Software Development,3,Business Administration,464,2,Male,2,Frontend Developer,2,4888,5,No,17,1,1,2,31,2,1,5,9,1,9,Male
+27,No,Travel_Frequently,Data Science,2,Information Technology,465,2,Female,2,Machine Learning Engineer,1,10852,4,No,10,3,3,0,21,5,4,18,10,1,3,Female
+60,No,Travel_Rarely,Data Science,4,Business Administration,466,3,Male,1,Data Scientist,2,8649,5,Yes,15,3,1,0,3,3,2,8,3,3,1,Female
+42,No,Non-Travel,Software Development,3,Engineering,467,2,Female,1,Frontend Developer,3,4130,3,Yes,18,1,3,2,39,0,3,3,7,2,5,Male
+52,Yes,Travel_Rarely,Cybersecurity,3,Business Administration,468,3,Female,3,Network Security Specialist,2,13638,2,No,3,1,1,2,15,1,3,16,9,4,10,Male
+26,No,Travel_Frequently,Project Management,1,Mathematics,469,3,Male,3,Project Manager,2,10832,4,No,5,1,2,2,11,4,2,2,10,9,10,Male
+45,Yes,Travel_Rarely,Cybersecurity,3,Computer Science,470,2,Male,3,Cybersecurity Engineer,4,10186,0,No,5,4,2,3,1,0,1,3,7,2,9,Male
+30,No,Travel_Frequently,Cybersecurity,4,Mathematics,471,2,Female,4,Cybersecurity Engineer,4,3095,1,No,6,2,2,0,30,3,2,15,5,10,7,Male
+26,No,Travel_Rarely,Project Management,3,Engineering,472,1,Female,3,Scrum Master,3,14080,4,No,19,1,4,3,8,1,1,6,5,6,8,Female
+39,No,Travel_Rarely,Cybersecurity,2,Computer Science,473,1,Female,3,Network Security Specialist,2,6260,2,No,15,2,3,0,35,0,1,14,4,4,2,Male
+30,No,Travel_Rarely,Cybersecurity,2,Information Technology,474,1,Male,1,Network Security Specialist,4,4166,3,No,4,4,1,0,32,3,4,17,8,5,9,Male
+53,Yes,Non-Travel,Data Science,4,Business Administration,475,4,Female,4,Data Analyst,4,6766,6,Yes,20,4,3,1,2,2,4,13,3,1,3,Female
+25,Yes,Travel_Frequently,Cybersecurity,2,Computer Science,476,2,Female,3,Security Analyst,2,3415,3,No,3,4,3,3,12,3,1,13,4,4,9,Male
+50,No,Non-Travel,Cybersecurity,2,Mathematics,477,2,Male,2,Security Analyst,1,3205,5,No,2,3,4,3,15,4,1,18,1,2,8,Male
+23,No,Travel_Rarely,Project Management,1,Business Administration,478,4,Female,1,Scrum Master,4,3043,5,No,18,1,3,3,5,4,3,15,3,8,8,Female
+48,Yes,Travel_Rarely,Project Management,4,Mathematics,479,2,Male,1,Scrum Master,2,13082,3,Yes,9,4,3,2,3,2,1,17,3,10,10,Male
+60,No,Non-Travel,IT Support,3,Mathematics,480,1,Female,4,Helpdesk Analyst,1,3874,4,No,1,4,3,1,36,0,3,19,7,0,5,Male
+41,Yes,Non-Travel,Cybersecurity,1,Engineering,481,1,Male,1,Security Analyst,4,5972,1,Yes,8,4,3,2,6,2,3,11,3,10,7,Male
+42,Yes,Travel_Frequently,Cybersecurity,3,Business Administration,482,4,Male,4,Security Analyst,4,6154,2,Yes,3,4,3,3,29,4,3,16,5,1,5,Male
+40,No,Travel_Rarely,Cybersecurity,3,Engineering,483,1,Female,3,Cybersecurity Engineer,1,7517,6,No,15,2,1,2,6,3,3,13,2,2,7,Male
+35,No,Travel_Rarely,IT Support,4,Computer Science,484,4,Female,1,IT Specialist,2,5858,4,No,4,1,3,2,35,4,1,2,3,4,2,Male
+49,No,Non-Travel,IT Support,3,Business Administration,485,1,Female,4,IT Specialist,3,11742,3,No,6,3,3,0,19,1,2,10,7,7,10,Male
+23,No,Non-Travel,Cybersecurity,1,Engineering,486,4,Male,2,Security Analyst,1,6793,5,Yes,16,2,2,2,4,5,2,16,4,5,10,Male
+24,No,Non-Travel,Data Science,1,Mathematics,487,2,Male,2,Data Scientist,2,5863,6,Yes,4,4,4,3,14,2,2,20,8,5,1,Female
+50,No,Travel_Rarely,Data Science,1,Engineering,488,4,Male,1,Data Analyst,1,13657,0,No,19,3,4,3,36,3,3,10,9,6,3,Female
+51,No,Travel_Rarely,Data Science,1,Computer Science,489,2,Female,1,Data Analyst,2,3694,1,No,2,1,2,3,10,2,3,19,5,1,3,Female
+60,Yes,Travel_Frequently,IT Support,2,Engineering,490,3,Male,4,Helpdesk Analyst,4,11995,2,Yes,12,4,3,0,35,0,4,4,7,5,2,Male
+38,No,Travel_Rarely,Data Science,4,Business Administration,491,4,Female,3,Data Analyst,3,10482,1,Yes,2,4,2,1,35,5,1,17,8,9,2,Female
+55,Yes,Travel_Frequently,Project Management,4,Computer Science,492,2,Male,4,Agile Coach,4,10626,2,No,14,4,2,3,17,0,4,16,7,3,6,Female
+29,No,Travel_Rarely,Project Management,3,Computer Science,493,1,Female,3,Project Manager,2,7845,5,Yes,9,3,1,1,6,5,2,1,10,9,10,Female
+29,No,Travel_Frequently,Project Management,1,Business Administration,494,3,Male,3,Agile Coach,2,12977,2,No,8,3,4,1,22,1,4,9,6,0,1,Male
+26,Yes,Travel_Frequently,IT Support,4,Information Technology,495,1,Male,3,System Administrator,4,6124,3,Yes,2,1,3,3,31,4,1,8,9,5,10,Male
+38,No,Travel_Frequently,IT Support,2,Business Administration,496,1,Male,1,IT Specialist,2,10328,4,Yes,17,3,4,2,23,0,1,20,4,4,9,Male
+22,Yes,Travel_Frequently,Software Development,1,Engineering,497,4,Male,4,Full Stack Developer,3,14801,2,Yes,13,3,4,2,3,0,1,15,4,9,2,Female
+22,No,Travel_Rarely,Data Science,1,Information Technology,498,3,Male,2,Data Scientist,2,12226,3,Yes,15,3,3,2,32,0,2,1,4,9,9,Female
+31,Yes,Non-Travel,Software Development,4,Business Administration,499,1,Male,3,Frontend Developer,1,6837,5,No,15,4,2,1,20,0,2,2,10,2,3,Female
+51,Yes,Non-Travel,Cybersecurity,4,Business Administration,500,1,Male,4,Cybersecurity Engineer,2,8115,3,No,18,4,2,2,4,5,4,16,3,10,10,Male
+32,No,Travel_Rarely,Data Science,4,Mathematics,501,2,Male,1,Data Scientist,2,8674,6,Yes,11,3,3,3,5,0,1,12,5,9,7,Female
+60,Yes,Travel_Rarely,IT Support,2,Information Technology,502,3,Female,1,System Administrator,1,4236,3,No,20,3,2,3,26,0,2,3,8,10,2,Male
+37,Yes,Travel_Frequently,Cybersecurity,3,Business Administration,503,1,Female,2,Cybersecurity Engineer,1,6843,5,Yes,15,2,3,3,3,5,3,13,6,9,7,Male
+22,No,Travel_Frequently,Data Science,4,Mathematics,504,4,Female,4,Data Analyst,3,12077,2,No,5,1,1,1,39,2,1,12,1,4,2,Female
+44,No,Travel_Rarely,Cybersecurity,1,Business Administration,505,4,Male,1,Security Analyst,1,14789,2,No,7,4,1,1,34,1,3,12,10,5,8,Male
+54,Yes,Travel_Rarely,IT Support,2,Information Technology,506,4,Male,2,IT Specialist,3,7428,4,Yes,1,3,1,1,37,1,2,6,8,6,10,Male
+22,Yes,Travel_Rarely,IT Support,4,Engineering,507,4,Female,3,IT Specialist,4,4076,1,Yes,16,4,2,1,8,0,4,19,10,1,2,Male
+40,Yes,Travel_Rarely,Project Management,1,Computer Science,508,3,Female,1,Agile Coach,4,3547,1,No,15,1,4,1,9,0,2,6,6,6,8,Female
+51,Yes,Travel_Rarely,Software Development,3,Information Technology,509,4,Female,4,Frontend Developer,1,7046,1,No,5,1,4,3,14,3,1,4,3,6,8,Female
+45,No,Travel_Frequently,Cybersecurity,2,Mathematics,510,4,Female,1,Security Analyst,1,9893,5,No,17,4,4,1,37,5,3,18,3,8,4,Male
+29,No,Travel_Rarely,Cybersecurity,4,Engineering,511,1,Male,1,Network Security Specialist,1,12261,3,Yes,17,1,1,3,30,4,2,12,8,5,7,Male
+53,No,Travel_Rarely,Software Development,3,Information Technology,512,1,Female,2,Frontend Developer,2,13330,2,No,17,4,4,0,6,4,1,3,9,6,7,Female
+23,No,Non-Travel,Software Development,1,Information Technology,513,2,Male,2,Backend Developer,4,10357,5,Yes,18,1,2,3,16,0,2,8,4,6,7,Male
+27,No,Travel_Frequently,IT Support,3,Business Administration,514,4,Male,1,Technical Support,3,10959,4,Yes,6,2,2,3,36,1,1,14,3,2,4,Male
+32,No,Non-Travel,Project Management,2,Business Administration,515,3,Female,3,Agile Coach,4,9755,2,Yes,8,1,2,1,38,3,4,1,9,4,5,Female
+49,Yes,Non-Travel,Data Science,3,Mathematics,516,3,Male,4,Data Scientist,3,14456,6,Yes,14,3,3,0,28,0,1,3,5,3,5,Female
+32,No,Travel_Rarely,Data Science,3,Mathematics,517,4,Male,1,Data Analyst,1,13143,6,No,20,3,2,1,5,3,2,15,6,8,3,Female
+48,Yes,Travel_Rarely,Cybersecurity,2,Computer Science,518,3,Male,3,Cybersecurity Engineer,2,13518,3,Yes,17,3,4,0,26,1,3,9,3,10,4,Male
+59,Yes,Travel_Rarely,Data Science,2,Mathematics,519,1,Female,1,Machine Learning Engineer,2,8846,3,Yes,12,1,3,0,5,1,2,4,5,10,7,Female
+56,No,Travel_Rarely,Software Development,3,Mathematics,520,3,Female,4,Software Engineer,1,3059,1,No,5,4,1,2,23,5,1,5,5,8,9,Female
+50,Yes,Travel_Frequently,IT Support,3,Engineering,521,4,Female,4,System Administrator,3,14149,1,No,14,4,3,2,38,1,3,18,5,10,7,Male
+53,No,Non-Travel,Project Management,1,Engineering,522,3,Female,4,Scrum Master,1,9560,6,No,13,4,2,3,14,1,4,15,7,6,3,Female
+42,No,Travel_Frequently,Data Science,3,Mathematics,523,1,Male,3,Data Scientist,4,6201,3,Yes,4,3,2,0,27,1,3,4,4,2,5,Female
+48,No,Non-Travel,IT Support,2,Business Administration,524,3,Female,3,System Administrator,3,9652,3,No,18,4,1,3,20,0,2,3,9,8,1,Male
+57,Yes,Travel_Frequently,Software Development,4,Computer Science,525,1,Male,4,Software Engineer,3,6213,4,No,9,4,2,0,31,0,2,11,1,1,4,Male
+42,Yes,Non-Travel,Project Management,3,Mathematics,526,4,Male,3,Agile Coach,2,7063,0,No,4,3,1,2,13,3,1,7,1,8,2,Female
+43,Yes,Non-Travel,Data Science,1,Computer Science,527,2,Female,4,Data Scientist,2,11384,2,Yes,16,1,1,0,3,5,1,9,10,2,4,Female
+36,Yes,Non-Travel,Software Development,3,Computer Science,528,3,Female,1,Backend Developer,2,3702,3,No,6,2,3,1,4,0,1,1,4,9,8,Female
+34,No,Non-Travel,Project Management,3,Engineering,529,1,Female,3,Agile Coach,1,6217,0,Yes,16,1,3,1,13,0,4,4,5,1,8,Female
+47,No,Non-Travel,Cybersecurity,3,Information Technology,530,1,Female,1,Security Analyst,3,7551,5,Yes,10,4,2,1,4,4,1,7,6,0,5,Male
+51,No,Travel_Frequently,Project Management,2,Information Technology,531,3,Male,1,Project Manager,2,10988,6,No,16,4,2,0,22,0,4,7,6,4,7,Female
+29,No,Non-Travel,Data Science,3,Information Technology,532,3,Female,3,Machine Learning Engineer,4,7643,2,Yes,9,1,3,2,14,1,1,2,5,1,1,Female
+49,No,Non-Travel,Data Science,2,Information Technology,533,2,Male,3,Data Scientist,4,14877,4,No,20,3,2,2,3,2,4,15,6,9,10,Female
+44,No,Travel_Frequently,Project Management,1,Engineering,534,3,Male,1,Project Manager,1,6277,2,Yes,7,4,4,1,19,5,3,14,9,4,5,Female
+28,Yes,Non-Travel,Cybersecurity,1,Information Technology,535,2,Female,2,Security Analyst,2,12437,4,Yes,12,2,3,1,5,0,1,15,3,1,4,Male
+54,Yes,Travel_Frequently,Software Development,2,Business Administration,536,4,Female,2,Frontend Developer,3,9415,5,No,1,1,1,1,21,1,1,20,5,5,7,Male
+26,Yes,Travel_Frequently,Project Management,3,Computer Science,537,3,Male,1,Project Manager,3,9669,2,No,15,2,3,3,7,1,4,18,6,9,6,Male
+56,Yes,Travel_Frequently,IT Support,4,Computer Science,538,3,Male,4,Helpdesk Analyst,1,3803,3,No,6,4,3,2,24,3,2,15,4,3,7,Male
+53,Yes,Non-Travel,Project Management,3,Business Administration,539,4,Female,1,Agile Coach,2,8458,4,Yes,8,1,1,2,16,3,4,19,10,5,9,Female
+59,No,Travel_Rarely,Cybersecurity,2,Computer Science,540,1,Female,3,Network Security Specialist,4,11840,1,No,17,4,3,2,17,3,1,20,9,6,7,Male
+49,No,Travel_Frequently,IT Support,1,Mathematics,541,4,Male,1,Helpdesk Analyst,2,3776,3,Yes,11,2,2,2,27,0,3,20,9,3,7,Male
+37,No,Travel_Rarely,Data Science,3,Business Administration,542,2,Female,4,Data Analyst,4,12046,2,No,8,1,1,2,3,3,2,4,2,6,8,Female
+25,Yes,Travel_Frequently,Software Development,1,Business Administration,543,2,Male,4,Software Engineer,1,13156,3,Yes,7,1,3,3,28,1,2,14,9,3,7,Male
+34,No,Travel_Rarely,Software Development,2,Business Administration,544,4,Female,3,Backend Developer,2,8485,4,No,19,3,1,1,16,2,1,1,9,3,8,Female
+58,No,Non-Travel,Project Management,1,Engineering,545,2,Female,1,Scrum Master,3,6841,1,No,12,3,1,2,33,3,1,12,6,8,2,Female
+34,No,Non-Travel,IT Support,3,Mathematics,546,1,Male,3,System Administrator,4,4504,4,No,1,2,1,2,13,0,2,20,8,7,1,Male
+58,Yes,Non-Travel,IT Support,2,Information Technology,547,2,Female,3,System Administrator,4,14728,2,Yes,11,3,3,2,31,4,1,13,6,8,1,Male
+57,No,Non-Travel,Project Management,1,Computer Science,548,4,Male,3,Project Manager,4,4767,4,Yes,2,2,4,1,10,3,4,19,10,1,10,Male
+48,No,Travel_Rarely,Software Development,3,Mathematics,549,4,Male,4,Software Engineer,2,8063,2,No,13,3,4,1,10,5,1,2,5,7,9,Male
+53,No,Travel_Rarely,Cybersecurity,3,Computer Science,550,2,Female,3,Cybersecurity Engineer,1,14047,4,No,11,2,2,1,5,1,2,8,10,8,6,Male
+51,No,Travel_Rarely,Data Science,2,Computer Science,551,1,Female,2,Data Scientist,3,3989,5,No,8,4,1,3,28,1,2,16,7,1,9,Female
+49,No,Non-Travel,Data Science,4,Business Administration,552,2,Female,4,Data Scientist,3,8604,0,Yes,17,2,4,3,31,4,2,6,2,5,8,Female
+32,Yes,Non-Travel,Software Development,4,Mathematics,553,1,Male,4,Software Engineer,2,3038,3,No,12,2,2,0,9,0,2,18,10,2,8,Male
+35,No,Non-Travel,Cybersecurity,4,Business Administration,554,2,Female,2,Network Security Specialist,3,3319,1,Yes,11,1,1,2,40,2,1,19,9,2,7,Male
+27,Yes,Travel_Rarely,Cybersecurity,4,Mathematics,555,3,Female,4,Cybersecurity Engineer,4,9890,1,No,17,3,2,3,17,0,1,2,9,2,7,Male
+47,Yes,Non-Travel,Project Management,2,Engineering,556,4,Male,3,Scrum Master,2,14809,2,No,13,2,4,2,3,2,4,7,6,4,1,Male
+39,Yes,Travel_Frequently,Software Development,2,Mathematics,557,3,Female,3,Backend Developer,2,14222,0,No,3,4,4,3,14,3,1,11,3,9,10,Female
+28,No,Travel_Rarely,Project Management,3,Information Technology,558,1,Female,2,Agile Coach,4,7806,1,Yes,16,4,3,2,28,4,3,5,6,3,3,Female
+40,No,Non-Travel,IT Support,3,Engineering,559,3,Female,3,IT Specialist,4,10714,2,Yes,2,4,2,2,27,0,1,7,2,4,8,Male
+23,No,Travel_Rarely,IT Support,2,Business Administration,560,2,Male,4,Helpdesk Analyst,3,14585,6,Yes,7,4,2,3,30,1,3,1,7,10,10,Male
+30,No,Travel_Rarely,Cybersecurity,2,Engineering,561,1,Male,3,Cybersecurity Engineer,1,13797,5,No,7,4,3,1,14,1,3,17,7,4,2,Male
+46,No,Travel_Rarely,Data Science,4,Information Technology,562,2,Female,1,Machine Learning Engineer,2,8913,3,Yes,15,3,2,1,9,4,3,3,2,8,3,Female
+34,Yes,Non-Travel,Project Management,2,Information Technology,563,1,Male,1,Project Manager,2,5291,2,Yes,1,4,1,3,24,5,3,18,7,6,3,Male
+24,Yes,Travel_Frequently,Software Development,1,Business Administration,564,3,Female,1,Backend Developer,1,8804,6,No,4,2,2,1,9,3,4,7,10,2,2,Male
+27,No,Travel_Frequently,Cybersecurity,4,Computer Science,565,4,Female,1,Network Security Specialist,4,8473,4,Yes,1,4,3,1,14,5,2,13,5,1,4,Male
+27,Yes,Travel_Frequently,Cybersecurity,2,Mathematics,566,4,Female,2,Security Analyst,2,12975,6,No,20,1,4,3,36,0,4,12,3,7,9,Male
+34,No,Travel_Rarely,Project Management,4,Computer Science,567,4,Female,1,Agile Coach,2,8846,5,No,14,4,3,0,6,5,1,7,10,2,3,Female
+25,No,Non-Travel,Project Management,3,Computer Science,568,3,Male,4,Project Manager,2,12368,2,Yes,16,3,2,2,9,5,2,6,10,6,3,Female
+40,Yes,Travel_Rarely,IT Support,1,Engineering,569,3,Female,4,Technical Support,2,14716,4,Yes,9,4,4,3,9,5,4,3,5,0,9,Male
+50,No,Non-Travel,Data Science,1,Mathematics,570,3,Female,4,Data Scientist,2,3324,3,Yes,20,3,2,3,28,2,1,4,8,10,8,Female
+30,Yes,Non-Travel,Cybersecurity,3,Engineering,571,3,Female,1,Cybersecurity Engineer,1,5873,3,No,5,4,4,1,28,0,3,18,7,7,9,Male
+27,No,Non-Travel,IT Support,4,Business Administration,572,1,Male,1,Technical Support,4,14234,2,No,19,3,1,1,10,3,4,5,10,10,8,Male
+40,No,Non-Travel,Cybersecurity,4,Mathematics,573,1,Female,3,Network Security Specialist,3,5566,4,Yes,8,3,2,2,34,3,1,12,4,7,7,Male
+31,No,Travel_Frequently,Data Science,1,Information Technology,574,2,Female,4,Data Analyst,4,6412,4,Yes,20,1,3,3,1,3,4,15,9,5,10,Female
+48,Yes,Non-Travel,IT Support,2,Information Technology,575,1,Female,3,System Administrator,1,11156,0,Yes,1,4,3,1,34,1,4,6,3,2,5,Male
+50,Yes,Non-Travel,Project Management,4,Computer Science,576,2,Female,3,Project Manager,3,11129,4,No,20,3,2,2,23,4,3,2,1,8,6,Male
+31,Yes,Travel_Rarely,Software Development,2,Computer Science,577,4,Male,1,Software Engineer,3,7257,3,Yes,19,2,3,1,24,2,2,15,3,9,3,Female
+34,No,Non-Travel,Data Science,3,Engineering,578,1,Female,3,Data Analyst,4,8916,2,No,11,3,1,0,40,5,1,12,7,9,2,Female
+22,No,Travel_Rarely,Data Science,3,Engineering,579,1,Female,2,Data Scientist,1,8315,2,Yes,18,4,2,2,32,4,4,6,5,6,3,Female
+22,No,Non-Travel,Cybersecurity,3,Computer Science,580,4,Female,4,Network Security Specialist,2,14446,1,Yes,14,3,1,2,10,5,3,9,5,6,3,Male
+36,Yes,Travel_Rarely,Project Management,1,Information Technology,581,3,Female,1,Agile Coach,2,5998,0,No,14,3,3,3,16,0,1,14,10,2,9,Female
+38,No,Travel_Rarely,Cybersecurity,3,Mathematics,582,4,Female,3,Cybersecurity Engineer,3,9586,5,No,9,3,2,1,34,1,3,1,1,7,10,Male
+33,Yes,Non-Travel,Data Science,1,Information Technology,583,1,Female,3,Data Scientist,2,3731,6,Yes,1,2,4,0,19,4,2,14,1,9,4,Female
+29,No,Non-Travel,Cybersecurity,1,Engineering,584,1,Male,4,Cybersecurity Engineer,2,5549,1,No,11,3,4,0,11,3,1,6,7,5,6,Male
+40,No,Non-Travel,IT Support,2,Business Administration,585,4,Male,4,System Administrator,1,6022,2,No,17,1,2,1,21,5,1,2,1,10,7,Male
+47,Yes,Non-Travel,Project Management,3,Engineering,586,2,Female,3,Agile Coach,2,13557,0,Yes,19,4,2,0,15,2,3,16,9,5,8,Female
+23,Yes,Travel_Rarely,Project Management,2,Computer Science,587,3,Male,2,Project Manager,4,4563,4,Yes,20,2,1,0,38,3,2,2,7,5,4,Female
+26,No,Travel_Frequently,Project Management,1,Computer Science,588,3,Female,4,Scrum Master,3,6056,0,No,16,1,1,2,36,3,4,17,8,6,8,Male
+40,Yes,Travel_Rarely,Software Development,3,Mathematics,589,1,Female,4,Frontend Developer,2,6429,0,No,5,3,1,1,5,3,2,10,9,3,7,Female
+47,Yes,Non-Travel,Project Management,4,Information Technology,590,4,Male,4,Agile Coach,3,5869,5,Yes,12,4,2,3,16,3,4,2,2,7,7,Female
+24,Yes,Non-Travel,Software Development,3,Computer Science,591,3,Male,4,Full Stack Developer,3,11412,4,Yes,20,3,4,1,14,5,3,14,2,2,4,Female
+47,Yes,Travel_Rarely,Software Development,4,Mathematics,592,3,Female,3,Software Engineer,3,12937,6,No,3,1,3,1,36,1,3,6,9,7,2,Male
+32,Yes,Travel_Rarely,Software Development,2,Information Technology,593,2,Female,3,Frontend Developer,3,13381,3,Yes,11,1,3,2,22,4,4,15,6,0,6,Female
+22,Yes,Travel_Rarely,IT Support,4,Mathematics,594,1,Female,2,System Administrator,3,10392,0,Yes,11,4,2,0,14,2,4,2,9,6,8,Male
+51,Yes,Travel_Rarely,Project Management,1,Information Technology,595,4,Male,2,Agile Coach,3,11276,4,Yes,20,4,2,1,4,5,1,20,10,2,3,Male
+24,No,Travel_Rarely,Data Science,2,Business Administration,596,4,Female,4,Data Analyst,2,3089,5,Yes,11,2,4,3,28,3,2,15,7,7,7,Female
+49,Yes,Travel_Frequently,Software Development,1,Mathematics,597,2,Male,3,Frontend Developer,3,6825,3,Yes,16,3,4,2,11,3,1,13,2,3,4,Male
+26,No,Travel_Rarely,IT Support,2,Computer Science,598,1,Female,3,System Administrator,1,3610,5,Yes,18,1,3,2,14,1,1,16,7,5,7,Male
+26,No,Travel_Frequently,Cybersecurity,2,Information Technology,599,4,Female,4,Security Analyst,1,6982,4,Yes,7,2,2,3,21,3,1,9,10,4,4,Male
+34,Yes,Travel_Frequently,Software Development,4,Computer Science,600,4,Male,3,Frontend Developer,4,14645,4,No,13,2,3,0,2,4,3,6,1,4,7,Male
+41,No,Travel_Frequently,Software Development,4,Information Technology,601,1,Female,3,Software Engineer,4,6339,4,No,9,2,4,1,27,4,3,10,7,6,9,Female
+57,No,Travel_Frequently,Software Development,3,Information Technology,602,3,Female,2,Frontend Developer,4,13162,5,No,10,3,2,1,15,1,2,7,1,5,8,Male
+58,Yes,Travel_Rarely,Data Science,3,Engineering,603,4,Male,4,Data Analyst,1,12877,5,No,12,2,3,3,23,2,2,15,2,7,5,Female
+28,Yes,Travel_Frequently,Project Management,3,Engineering,604,3,Female,1,Agile Coach,1,12014,2,No,6,2,1,1,13,2,2,20,8,9,7,Female
+54,No,Non-Travel,Cybersecurity,2,Information Technology,605,4,Male,4,Network Security Specialist,4,12850,1,Yes,3,1,4,1,30,5,2,15,7,9,4,Male
+32,No,Travel_Frequently,Project Management,2,Mathematics,606,1,Female,3,Scrum Master,3,3152,6,Yes,13,2,3,2,28,0,1,10,1,1,2,Male
+25,Yes,Non-Travel,IT Support,3,Information Technology,607,4,Male,2,Technical Support,4,7222,5,No,13,2,2,3,13,0,3,17,8,5,10,Male
+27,No,Travel_Rarely,IT Support,1,Business Administration,608,1,Male,1,Helpdesk Analyst,4,8221,5,Yes,12,1,2,0,40,0,3,8,6,0,8,Male
+44,No,Non-Travel,Data Science,3,Business Administration,609,3,Male,4,Data Scientist,1,5298,2,No,4,3,3,1,32,1,1,1,9,3,10,Female
+30,No,Travel_Rarely,Software Development,4,Computer Science,610,1,Male,4,Frontend Developer,1,3358,4,No,10,4,3,0,20,4,3,18,2,1,9,Female
+29,No,Non-Travel,Project Management,3,Information Technology,611,2,Female,3,Agile Coach,1,10969,3,Yes,16,1,1,1,11,4,2,19,8,10,1,Male
+47,No,Non-Travel,Software Development,4,Mathematics,612,2,Male,3,Software Engineer,4,11016,5,No,15,3,4,0,18,1,1,13,10,0,5,Female
+43,Yes,Non-Travel,Cybersecurity,2,Mathematics,613,4,Male,3,Network Security Specialist,1,10698,6,No,17,4,1,3,33,5,3,17,10,8,7,Male
+33,No,Travel_Rarely,Cybersecurity,2,Business Administration,614,2,Female,2,Cybersecurity Engineer,3,8219,1,No,9,2,1,2,19,0,3,16,7,3,8,Male
+24,No,Travel_Frequently,Data Science,3,Computer Science,615,3,Female,3,Machine Learning Engineer,2,3510,4,No,1,1,4,0,17,3,1,12,5,6,8,Female
+47,No,Travel_Rarely,Cybersecurity,4,Business Administration,616,4,Female,3,Network Security Specialist,4,12206,1,No,12,3,3,1,27,3,1,7,7,3,10,Male
+52,Yes,Travel_Frequently,Cybersecurity,4,Computer Science,617,1,Female,3,Network Security Specialist,1,6400,3,No,11,1,1,2,10,4,1,20,3,3,9,Male
+22,No,Non-Travel,Software Development,4,Mathematics,618,4,Male,3,Backend Developer,3,10240,3,Yes,5,1,1,1,23,4,2,6,3,3,10,Male
+39,No,Travel_Rarely,IT Support,4,Business Administration,619,4,Male,4,IT Specialist,4,8285,5,Yes,12,1,2,2,30,0,4,10,5,8,9,Male
+29,Yes,Travel_Rarely,Software Development,2,Computer Science,620,2,Female,4,Full Stack Developer,2,13589,3,No,14,1,1,1,19,0,3,13,8,2,10,Female
+24,No,Travel_Rarely,Software Development,1,Information Technology,621,4,Female,2,Frontend Developer,1,12743,1,No,1,3,1,2,14,4,1,5,4,4,8,Male
+47,Yes,Travel_Frequently,Project Management,4,Engineering,622,1,Male,1,Project Manager,3,12705,3,No,5,2,1,2,25,0,3,3,8,3,10,Female
+22,No,Travel_Rarely,Project Management,2,Computer Science,623,2,Male,2,Project Manager,3,4113,4,Yes,11,3,1,0,8,1,2,18,8,6,6,Female
+40,Yes,Non-Travel,Project Management,3,Information Technology,624,1,Female,1,Agile Coach,2,4631,4,Yes,19,4,4,2,39,3,2,4,7,5,4,Male
+29,Yes,Non-Travel,IT Support,2,Computer Science,625,3,Female,3,IT Specialist,2,12182,6,Yes,7,3,4,1,18,4,2,16,2,9,3,Male
+50,No,Travel_Rarely,Project Management,4,Business Administration,626,2,Female,1,Scrum Master,3,9433,0,No,19,4,1,0,31,0,4,13,2,1,1,Female
+23,No,Non-Travel,Software Development,2,Computer Science,627,3,Female,2,Backend Developer,2,8689,3,Yes,1,2,3,2,7,1,4,17,5,2,9,Male
+24,Yes,Travel_Frequently,Data Science,4,Computer Science,628,1,Female,3,Machine Learning Engineer,4,7629,0,No,6,1,4,0,12,0,3,9,6,7,6,Female
+48,Yes,Travel_Frequently,Project Management,1,Mathematics,629,4,Female,2,Scrum Master,1,14909,3,No,14,4,2,2,36,1,2,14,8,6,5,Female
+25,No,Travel_Rarely,Software Development,2,Business Administration,630,4,Female,1,Frontend Developer,3,11356,6,No,2,2,3,0,29,1,2,3,4,6,3,Female
+25,Yes,Travel_Frequently,IT Support,4,Mathematics,631,2,Female,2,IT Specialist,4,7975,1,No,15,4,4,0,33,2,1,13,6,9,9,Male
+43,No,Non-Travel,Software Development,4,Information Technology,632,1,Female,1,Full Stack Developer,2,14111,2,Yes,18,3,4,2,6,5,3,16,6,2,8,Female
+40,Yes,Non-Travel,Data Science,3,Information Technology,633,1,Male,2,Data Scientist,4,8007,0,Yes,19,3,1,3,23,2,1,17,9,5,7,Female
+59,Yes,Travel_Rarely,Data Science,1,Engineering,634,4,Male,1,Machine Learning Engineer,2,8794,0,Yes,3,2,4,3,37,1,3,16,2,1,10,Female
+35,No,Travel_Rarely,Data Science,1,Mathematics,635,1,Female,3,Data Analyst,1,6647,5,No,13,3,3,1,17,1,3,4,5,4,2,Female
+26,Yes,Travel_Rarely,IT Support,4,Mathematics,636,3,Female,2,IT Specialist,4,14374,1,No,11,4,1,0,30,2,2,8,9,2,7,Male
+59,No,Travel_Rarely,Data Science,2,Mathematics,637,1,Female,4,Machine Learning Engineer,1,6178,2,Yes,8,4,2,0,4,4,4,13,1,10,3,Female
+46,Yes,Non-Travel,Data Science,1,Engineering,638,1,Female,4,Data Analyst,1,5374,1,No,9,2,3,0,17,5,4,1,6,4,9,Female
+60,No,Travel_Frequently,Cybersecurity,1,Computer Science,639,4,Male,2,Cybersecurity Engineer,3,5804,3,Yes,9,3,4,2,7,4,2,1,8,7,2,Male
+53,Yes,Non-Travel,Data Science,3,Computer Science,640,1,Male,1,Data Analyst,1,11937,0,Yes,14,4,2,2,30,1,1,13,6,0,9,Female
+24,Yes,Travel_Frequently,IT Support,4,Engineering,641,4,Female,4,IT Specialist,1,7375,1,No,5,3,1,2,19,5,2,8,1,6,3,Male
+56,Yes,Travel_Rarely,Cybersecurity,2,Computer Science,642,4,Male,2,Cybersecurity Engineer,4,5733,3,No,2,1,2,2,14,3,2,13,7,8,3,Male
+36,Yes,Travel_Rarely,IT Support,4,Computer Science,643,2,Male,1,Helpdesk Analyst,4,10244,1,Yes,13,3,2,3,39,1,3,2,1,9,6,Male
+46,No,Non-Travel,Project Management,1,Computer Science,644,3,Male,1,Scrum Master,2,6648,2,Yes,12,4,3,1,7,0,3,7,1,5,2,Male
+43,No,Travel_Frequently,IT Support,2,Mathematics,645,3,Male,2,System Administrator,1,5714,6,No,9,4,1,1,19,4,1,6,10,7,5,Male
+23,Yes,Travel_Frequently,Cybersecurity,3,Information Technology,646,4,Female,1,Cybersecurity Engineer,4,9638,5,Yes,5,3,3,1,36,0,2,5,9,10,1,Male
+47,Yes,Non-Travel,Software Development,1,Mathematics,647,2,Male,1,Backend Developer,1,7118,5,No,8,2,2,0,17,0,1,16,1,1,4,Female
+53,Yes,Travel_Rarely,Project Management,2,Engineering,648,4,Male,4,Scrum Master,3,7566,0,No,7,3,1,0,5,5,1,3,3,1,6,Female
+59,No,Travel_Rarely,IT Support,3,Mathematics,649,3,Male,4,Helpdesk Analyst,3,11750,3,No,6,1,2,2,12,2,2,9,4,8,7,Male
+59,Yes,Travel_Rarely,Cybersecurity,2,Information Technology,650,1,Female,4,Cybersecurity Engineer,4,11444,2,No,13,2,1,2,31,5,4,17,7,2,3,Male
+39,No,Travel_Frequently,Cybersecurity,3,Information Technology,651,1,Female,4,Cybersecurity Engineer,1,14367,4,Yes,10,2,2,0,24,1,3,15,10,0,1,Male
+50,Yes,Travel_Rarely,Cybersecurity,3,Business Administration,652,2,Male,3,Network Security Specialist,1,7903,1,Yes,7,4,4,1,18,4,4,1,10,3,3,Male
+59,No,Travel_Rarely,Cybersecurity,4,Business Administration,653,3,Female,3,Network Security Specialist,1,4039,1,Yes,9,1,1,2,28,5,4,8,2,8,2,Male
+43,No,Non-Travel,IT Support,2,Engineering,654,1,Male,1,Technical Support,2,9836,4,No,7,4,2,2,39,2,3,7,5,10,3,Male
+39,Yes,Travel_Frequently,Data Science,1,Mathematics,655,1,Male,2,Data Analyst,2,10366,3,Yes,16,3,4,2,37,0,4,8,4,2,3,Female
+55,Yes,Non-Travel,Data Science,1,Information Technology,656,4,Female,4,Data Analyst,3,5307,2,Yes,14,3,4,3,27,3,3,9,6,3,8,Female
+56,Yes,Travel_Rarely,Software Development,3,Mathematics,657,3,Female,3,Software Engineer,3,3093,3,Yes,16,4,3,3,12,4,2,14,4,7,10,Male
+59,No,Travel_Frequently,Project Management,1,Computer Science,658,2,Female,1,Agile Coach,1,7024,2,No,9,4,2,0,40,3,4,2,9,8,7,Female
+27,Yes,Travel_Frequently,Data Science,1,Engineering,659,2,Male,1,Data Analyst,3,3535,3,Yes,9,3,2,1,28,5,3,4,2,1,2,Female
+33,Yes,Non-Travel,Project Management,3,Engineering,660,1,Female,2,Project Manager,2,9356,3,No,3,3,3,3,39,0,2,11,3,7,8,Female
+36,No,Non-Travel,Data Science,4,Mathematics,661,2,Male,1,Data Scientist,2,14444,2,No,6,3,2,3,40,0,2,19,9,2,5,Female
+40,Yes,Non-Travel,Project Management,2,Business Administration,662,3,Male,1,Scrum Master,3,10273,4,No,8,2,4,0,32,5,2,14,3,10,10,Female
+45,No,Non-Travel,Cybersecurity,2,Computer Science,663,1,Male,3,Network Security Specialist,2,13904,1,No,13,4,4,3,37,4,2,1,10,0,1,Male
+53,No,Travel_Frequently,Data Science,3,Mathematics,664,4,Female,3,Data Scientist,3,8130,6,No,20,3,1,2,24,3,3,10,8,6,2,Female
+36,Yes,Non-Travel,Data Science,1,Mathematics,665,1,Female,1,Machine Learning Engineer,1,6529,6,No,20,4,3,1,4,3,2,9,9,2,8,Female
+48,Yes,Non-Travel,Project Management,1,Computer Science,666,2,Male,3,Scrum Master,4,12931,5,Yes,16,4,4,0,24,2,2,9,9,0,6,Female
+53,No,Travel_Frequently,Project Management,1,Information Technology,667,3,Male,1,Agile Coach,4,11597,1,Yes,9,2,3,3,8,2,3,18,10,1,9,Female
+37,Yes,Travel_Rarely,Cybersecurity,4,Engineering,668,1,Male,3,Security Analyst,3,3684,4,No,4,4,1,0,11,1,1,12,6,4,9,Male
+27,Yes,Travel_Rarely,Project Management,1,Mathematics,669,2,Female,4,Agile Coach,2,13818,2,Yes,19,2,4,3,27,4,1,3,8,0,10,Male
+28,Yes,Non-Travel,Cybersecurity,1,Information Technology,670,1,Male,2,Cybersecurity Engineer,1,5124,0,No,14,3,1,2,20,1,3,16,5,4,8,Male
+50,Yes,Travel_Rarely,Software Development,4,Computer Science,671,3,Male,4,Full Stack Developer,4,6087,6,No,11,2,3,0,6,0,2,16,8,3,2,Male
+48,No,Travel_Rarely,IT Support,1,Computer Science,672,4,Female,2,Technical Support,4,10863,6,No,6,3,1,0,10,1,4,8,9,6,3,Male
+59,Yes,Travel_Frequently,Software Development,1,Engineering,673,4,Male,1,Backend Developer,4,14063,3,No,18,3,4,2,9,3,2,15,7,1,7,Male
+23,Yes,Non-Travel,Software Development,1,Mathematics,674,1,Male,2,Frontend Developer,1,11204,6,No,19,3,1,0,4,4,4,3,6,2,5,Female
+32,No,Travel_Frequently,Data Science,3,Mathematics,675,4,Female,4,Data Scientist,2,7086,0,Yes,7,2,4,3,13,4,2,16,2,8,8,Female
+52,Yes,Travel_Rarely,Cybersecurity,1,Information Technology,676,4,Female,4,Network Security Specialist,3,4287,5,No,8,3,2,1,14,3,2,16,4,3,4,Male
+59,Yes,Travel_Frequently,Data Science,4,Business Administration,677,2,Female,3,Data Scientist,2,8613,3,Yes,13,3,1,2,15,0,3,15,10,8,7,Female
+38,No,Non-Travel,IT Support,2,Business Administration,678,1,Male,2,Technical Support,2,12432,4,Yes,2,2,3,2,19,0,2,16,10,3,8,Male
+38,No,Travel_Rarely,Project Management,4,Computer Science,679,1,Female,3,Project Manager,1,9302,3,No,18,4,2,1,21,5,3,1,7,9,7,Female
+23,Yes,Travel_Rarely,Software Development,3,Mathematics,680,2,Female,1,Software Engineer,1,10811,3,Yes,14,3,2,3,13,0,2,8,5,10,5,Male
+28,Yes,Non-Travel,Data Science,1,Mathematics,681,3,Male,4,Data Analyst,2,3378,0,No,13,2,1,1,33,3,2,20,5,9,3,Female
+22,Yes,Travel_Frequently,IT Support,3,Business Administration,682,2,Male,3,IT Specialist,3,7924,2,Yes,15,3,3,2,30,4,4,19,4,10,7,Male
+49,No,Travel_Frequently,Project Management,4,Engineering,683,4,Male,4,Project Manager,3,10522,3,Yes,17,1,1,0,28,3,4,7,8,10,9,Female
+25,Yes,Travel_Frequently,Project Management,2,Engineering,684,2,Female,4,Scrum Master,1,6505,2,No,6,3,4,0,34,5,4,9,4,1,1,Female
+29,Yes,Travel_Frequently,Project Management,4,Engineering,685,4,Male,4,Project Manager,2,4019,6,No,11,1,3,1,34,5,2,4,2,0,4,Female
+31,Yes,Travel_Frequently,Data Science,3,Business Administration,686,1,Female,1,Data Scientist,4,11690,3,No,5,4,1,0,28,2,2,9,3,4,10,Female
+31,No,Travel_Rarely,Software Development,1,Computer Science,687,2,Female,1,Backend Developer,4,5470,4,No,3,3,1,2,27,0,3,6,5,4,10,Female
+36,Yes,Travel_Rarely,Data Science,3,Engineering,688,4,Female,1,Data Analyst,3,5825,3,No,5,2,1,1,8,4,4,1,3,5,8,Female
+39,No,Travel_Frequently,Software Development,1,Engineering,689,3,Female,3,Software Engineer,2,13951,5,No,12,3,1,2,31,2,3,2,5,7,2,Female
+28,Yes,Non-Travel,Project Management,2,Engineering,690,2,Female,2,Scrum Master,3,6304,0,Yes,13,3,2,3,18,1,2,15,2,1,1,Male
+42,Yes,Travel_Rarely,Data Science,1,Computer Science,691,2,Male,3,Data Scientist,3,14596,0,No,17,2,3,3,12,5,3,3,10,7,6,Female
+54,Yes,Travel_Frequently,Software Development,3,Engineering,692,3,Male,3,Software Engineer,2,13815,5,No,4,1,3,3,6,5,2,3,1,6,5,Male
+33,No,Non-Travel,Cybersecurity,2,Computer Science,693,2,Female,2,Network Security Specialist,4,7770,4,Yes,13,3,4,2,29,3,4,14,3,0,1,Male
+26,No,Non-Travel,Project Management,1,Mathematics,694,1,Female,2,Scrum Master,2,4923,3,Yes,4,3,1,0,3,5,2,11,7,2,10,Male
+31,No,Travel_Rarely,Project Management,4,Business Administration,695,4,Female,4,Scrum Master,4,14104,3,Yes,19,4,2,1,4,5,3,9,2,6,2,Female
+35,No,Travel_Rarely,Data Science,4,Information Technology,696,4,Male,2,Data Scientist,3,14600,2,Yes,20,1,4,2,22,1,2,1,3,2,1,Female
+28,No,Non-Travel,Project Management,4,Information Technology,697,2,Female,1,Project Manager,1,11307,5,No,19,4,1,2,14,4,1,4,6,1,4,Female
+24,No,Travel_Rarely,Software Development,2,Mathematics,698,1,Female,2,Backend Developer,1,4485,3,No,3,4,4,1,13,5,3,16,7,8,1,Male
+59,No,Travel_Rarely,Data Science,4,Business Administration,699,3,Female,3,Machine Learning Engineer,2,14814,1,Yes,6,4,3,2,35,2,1,4,6,8,10,Female
+39,Yes,Travel_Rarely,Software Development,3,Engineering,700,4,Male,2,Frontend Developer,4,12108,2,Yes,16,3,2,0,5,0,3,14,6,10,6,Male
+55,Yes,Travel_Frequently,Project Management,3,Information Technology,701,3,Male,1,Scrum Master,4,4927,0,Yes,9,4,1,3,27,4,3,3,6,3,5,Male
+48,Yes,Non-Travel,Software Development,4,Engineering,702,1,Male,2,Software Engineer,4,10058,5,Yes,10,2,1,2,39,3,4,16,9,0,5,Female
+46,No,Travel_Frequently,Software Development,4,Business Administration,703,1,Male,1,Frontend Developer,3,9713,6,No,18,3,1,2,7,2,2,13,4,3,6,Female
+47,Yes,Travel_Frequently,Cybersecurity,1,Business Administration,704,4,Female,3,Security Analyst,2,14601,5,No,19,2,1,3,8,1,1,3,4,10,9,Male
+45,No,Travel_Frequently,Data Science,4,Computer Science,705,3,Male,1,Data Analyst,2,13741,1,Yes,11,1,3,0,9,4,3,3,1,1,1,Female
+55,Yes,Travel_Frequently,Cybersecurity,4,Business Administration,706,4,Female,2,Security Analyst,1,10458,2,Yes,9,3,4,0,15,4,1,8,5,2,3,Male
+43,No,Travel_Rarely,Software Development,2,Information Technology,707,1,Female,2,Backend Developer,3,10162,5,Yes,5,3,1,1,13,1,3,9,10,6,10,Female
+36,No,Travel_Rarely,Cybersecurity,1,Computer Science,708,2,Female,4,Network Security Specialist,1,8933,1,No,2,1,4,1,29,2,2,17,2,5,6,Male
+57,No,Travel_Frequently,Project Management,4,Information Technology,709,2,Male,2,Project Manager,3,12005,3,Yes,10,4,4,0,26,3,4,5,3,10,1,Male
+51,No,Travel_Rarely,Software Development,4,Business Administration,710,1,Female,4,Full Stack Developer,4,4087,4,Yes,7,2,2,1,22,3,2,12,3,6,8,Female
+26,No,Non-Travel,Data Science,2,Information Technology,711,1,Female,1,Machine Learning Engineer,2,11634,6,Yes,1,2,2,1,9,1,1,2,9,5,4,Female
+50,No,Travel_Frequently,Cybersecurity,1,Computer Science,712,4,Male,2,Cybersecurity Engineer,1,14165,3,Yes,2,1,1,3,26,1,4,15,3,10,3,Male
+24,No,Non-Travel,Software Development,1,Information Technology,713,2,Female,2,Software Engineer,4,11247,1,No,15,2,1,2,12,3,3,16,8,7,1,Male
+22,No,Non-Travel,Project Management,1,Business Administration,714,3,Male,3,Project Manager,3,14701,4,No,5,1,1,0,22,4,3,1,3,10,2,Male
+56,Yes,Non-Travel,Project Management,1,Business Administration,715,2,Female,1,Agile Coach,4,11865,0,Yes,16,1,1,3,19,1,2,8,2,3,1,Female
+51,No,Travel_Frequently,IT Support,4,Business Administration,716,2,Male,4,Helpdesk Analyst,1,11897,6,Yes,9,3,1,1,39,1,3,10,7,9,2,Male
+29,Yes,Travel_Rarely,IT Support,1,Computer Science,717,2,Male,3,Technical Support,4,14205,4,No,3,3,3,3,12,1,3,17,4,7,4,Male
+24,Yes,Travel_Rarely,Software Development,3,Information Technology,718,2,Male,1,Software Engineer,3,8814,3,No,8,1,4,0,34,4,2,9,1,4,6,Male
+44,Yes,Non-Travel,Project Management,3,Mathematics,719,4,Female,4,Project Manager,4,11683,0,No,11,3,1,2,7,1,1,17,3,2,7,Female
+57,No,Non-Travel,Project Management,3,Information Technology,720,2,Female,2,Scrum Master,3,4298,6,Yes,5,2,1,2,12,0,4,4,8,1,8,Male
+56,No,Travel_Frequently,IT Support,4,Information Technology,721,4,Female,3,Helpdesk Analyst,2,4865,4,No,4,2,4,1,27,3,4,17,9,6,3,Male
+40,No,Travel_Rarely,IT Support,2,Engineering,722,4,Male,3,System Administrator,4,7020,3,No,6,3,2,0,1,0,3,10,7,5,5,Male
+43,No,Non-Travel,Data Science,1,Engineering,723,2,Male,1,Machine Learning Engineer,3,9047,0,No,10,3,4,0,19,5,4,13,9,5,10,Female
+34,Yes,Non-Travel,Project Management,3,Business Administration,724,1,Male,4,Project Manager,1,12336,2,No,16,4,3,2,40,4,3,13,6,0,8,Male
+58,Yes,Travel_Frequently,Data Science,2,Mathematics,725,2,Female,2,Data Scientist,1,3684,0,Yes,18,3,4,3,8,5,2,17,3,9,9,Female
+57,Yes,Non-Travel,IT Support,4,Information Technology,726,2,Female,2,Technical Support,3,5370,1,No,19,1,3,2,18,3,2,14,1,0,6,Male
+54,Yes,Non-Travel,Software Development,4,Computer Science,727,1,Female,3,Frontend Developer,2,3471,3,Yes,9,3,2,1,28,4,4,15,5,9,10,Male
+32,No,Travel_Rarely,Software Development,3,Business Administration,728,1,Female,2,Software Engineer,3,12028,1,Yes,17,3,3,1,5,3,3,6,10,8,10,Female
+32,No,Travel_Rarely,Software Development,1,Information Technology,729,4,Female,2,Backend Developer,3,12079,2,No,2,2,2,1,19,0,2,18,5,0,2,Female
+49,Yes,Travel_Rarely,IT Support,2,Computer Science,730,2,Male,2,System Administrator,4,10641,1,No,4,2,2,0,1,5,2,11,4,6,7,Male
+44,No,Non-Travel,Project Management,4,Business Administration,731,4,Female,3,Project Manager,2,12186,6,No,6,3,4,1,14,5,4,11,9,2,7,Female
+26,Yes,Travel_Frequently,IT Support,1,Information Technology,732,4,Male,1,Technical Support,4,5782,2,Yes,12,4,2,0,24,0,2,12,9,6,6,Male
+27,No,Travel_Frequently,Data Science,2,Computer Science,733,3,Female,3,Data Analyst,3,9127,1,No,15,3,2,2,35,2,4,6,2,0,9,Female
+41,No,Travel_Frequently,Data Science,4,Computer Science,734,2,Female,1,Machine Learning Engineer,3,4725,6,No,11,3,2,3,38,1,1,18,9,2,1,Female
+26,Yes,Travel_Rarely,Data Science,1,Business Administration,735,3,Female,3,Data Analyst,2,3056,1,Yes,16,3,1,3,40,5,3,20,9,9,3,Female
+51,Yes,Non-Travel,IT Support,2,Engineering,736,3,Female,1,System Administrator,1,14617,0,Yes,13,3,2,2,32,3,1,20,1,5,7,Male
+52,Yes,Travel_Rarely,Cybersecurity,4,Computer Science,737,2,Male,4,Security Analyst,1,12221,1,No,15,1,3,2,33,3,3,14,5,0,10,Male
+44,Yes,Travel_Frequently,Software Development,2,Computer Science,738,2,Female,3,Software Engineer,4,14235,4,Yes,14,2,1,0,20,4,4,18,9,3,3,Male
+37,Yes,Non-Travel,Software Development,3,Mathematics,739,4,Female,1,Frontend Developer,2,8698,1,No,16,3,3,3,2,4,3,13,5,8,2,Female
+58,No,Non-Travel,Project Management,1,Mathematics,740,3,Female,1,Agile Coach,3,6470,6,Yes,12,4,1,2,38,0,3,16,1,9,10,Male
+49,No,Travel_Frequently,IT Support,1,Mathematics,741,3,Male,1,IT Specialist,1,13171,6,No,17,2,4,3,13,3,2,11,8,6,6,Male
+32,No,Travel_Rarely,IT Support,3,Mathematics,742,3,Female,3,System Administrator,4,14712,3,Yes,16,3,1,3,11,2,3,7,1,3,2,Male
+42,No,Non-Travel,Cybersecurity,4,Mathematics,743,1,Female,2,Network Security Specialist,3,10332,3,Yes,12,2,3,1,12,2,4,4,4,5,10,Male
+24,Yes,Travel_Frequently,Cybersecurity,2,Computer Science,744,1,Male,2,Cybersecurity Engineer,2,7683,1,Yes,12,2,3,2,10,4,1,10,4,1,6,Male
+50,No,Non-Travel,Cybersecurity,1,Engineering,745,1,Female,2,Network Security Specialist,4,10546,6,No,11,1,2,3,11,1,3,14,2,0,2,Male
+27,No,Travel_Rarely,IT Support,4,Computer Science,746,2,Male,2,Helpdesk Analyst,2,6633,1,No,14,3,3,3,32,4,3,9,8,5,7,Male
+24,No,Non-Travel,Cybersecurity,1,Information Technology,747,2,Female,4,Security Analyst,3,14402,0,No,15,1,2,3,34,1,3,6,4,3,6,Male
+48,Yes,Travel_Rarely,IT Support,2,Engineering,748,4,Male,1,System Administrator,4,6718,0,No,9,2,1,1,10,5,4,12,2,9,1,Male
+30,Yes,Travel_Rarely,IT Support,1,Information Technology,749,1,Male,4,Helpdesk Analyst,3,13339,3,Yes,17,3,3,2,33,2,1,15,4,4,7,Male
+51,No,Travel_Frequently,Project Management,3,Mathematics,750,3,Male,2,Scrum Master,1,11143,6,No,15,3,1,1,26,4,4,2,8,6,6,Female
+46,Yes,Non-Travel,Project Management,4,Information Technology,751,1,Female,4,Scrum Master,1,6349,3,No,4,2,3,1,9,5,1,17,9,0,8,Male
+33,Yes,Non-Travel,IT Support,4,Information Technology,752,3,Female,4,System Administrator,4,6033,1,No,10,1,1,0,13,1,1,4,5,1,6,Male
+36,No,Travel_Rarely,Software Development,2,Computer Science,753,1,Female,4,Backend Developer,2,4689,2,No,15,3,3,3,4,0,2,4,1,0,2,Female
+29,Yes,Non-Travel,Software Development,3,Business Administration,754,4,Male,3,Full Stack Developer,4,13302,1,No,2,3,3,2,23,0,2,19,9,5,2,Male
+56,No,Travel_Frequently,Data Science,1,Engineering,755,1,Female,3,Data Scientist,1,8084,6,Yes,18,1,3,3,9,0,4,8,10,0,9,Female
+59,Yes,Non-Travel,IT Support,4,Business Administration,756,3,Female,2,Technical Support,1,14189,2,No,11,2,2,1,30,3,1,14,8,0,9,Male
+32,Yes,Travel_Rarely,Cybersecurity,1,Information Technology,757,1,Male,2,Security Analyst,1,7218,4,Yes,20,3,4,2,33,5,4,5,1,7,4,Male
+36,No,Travel_Rarely,IT Support,3,Information Technology,758,4,Female,4,IT Specialist,1,6091,3,No,9,1,2,0,39,3,2,11,2,6,6,Male
+49,No,Travel_Frequently,Data Science,4,Engineering,759,2,Female,2,Data Analyst,4,7384,4,No,11,3,4,2,22,1,3,7,1,4,8,Female
+26,No,Non-Travel,Project Management,2,Mathematics,760,4,Female,1,Scrum Master,4,11145,2,Yes,11,2,2,2,15,3,3,16,9,2,4,Female
+25,No,Travel_Frequently,Project Management,4,Computer Science,761,1,Female,2,Scrum Master,3,5268,6,No,4,4,4,0,1,5,3,5,4,2,9,Male
+56,No,Non-Travel,Project Management,2,Computer Science,762,4,Female,3,Project Manager,4,11606,0,No,11,2,1,0,35,5,3,14,4,7,2,Male
+26,No,Travel_Frequently,IT Support,2,Mathematics,763,1,Female,1,IT Specialist,1,11982,2,No,6,2,1,0,10,5,1,11,5,3,8,Male
+26,Yes,Non-Travel,Project Management,4,Mathematics,764,4,Male,3,Project Manager,4,7875,1,No,10,1,2,3,17,1,2,19,8,9,7,Female
+55,Yes,Travel_Frequently,IT Support,4,Information Technology,765,2,Male,3,System Administrator,2,5338,5,No,20,4,2,0,1,3,1,1,10,4,1,Male
+29,No,Non-Travel,IT Support,1,Mathematics,766,1,Female,3,Helpdesk Analyst,4,4518,2,Yes,3,1,2,3,20,2,1,2,3,3,3,Male
+27,Yes,Non-Travel,Software Development,2,Computer Science,767,3,Female,1,Full Stack Developer,3,8968,5,Yes,8,3,1,3,30,5,1,9,1,3,6,Male
+57,No,Travel_Frequently,Project Management,3,Engineering,768,3,Female,4,Scrum Master,2,4102,2,Yes,2,2,2,2,13,0,2,16,7,6,4,Female
+35,Yes,Travel_Frequently,Software Development,3,Business Administration,769,3,Male,1,Frontend Developer,1,12646,5,No,15,2,2,1,29,0,4,18,10,9,6,Female
+59,No,Travel_Frequently,Data Science,3,Mathematics,770,3,Male,2,Data Analyst,2,7872,6,No,2,2,4,3,26,2,3,8,10,0,5,Female
+44,Yes,Non-Travel,Data Science,2,Engineering,771,4,Male,3,Data Analyst,4,13200,4,Yes,13,1,2,1,37,5,3,3,4,2,7,Female
+60,Yes,Travel_Frequently,Data Science,1,Information Technology,772,3,Female,3,Data Scientist,2,13670,5,No,7,1,1,0,1,1,2,5,4,7,1,Female
+28,Yes,Non-Travel,Cybersecurity,1,Engineering,773,2,Male,1,Network Security Specialist,4,10708,4,No,20,1,3,1,32,2,2,15,3,3,8,Male
+60,No,Travel_Frequently,Data Science,3,Engineering,774,1,Male,1,Data Scientist,4,8937,6,Yes,19,2,3,1,30,3,4,16,1,10,8,Female
+53,Yes,Travel_Rarely,Project Management,3,Mathematics,775,4,Female,2,Scrum Master,1,6278,6,No,1,3,3,0,31,3,1,5,6,9,10,Female
+54,Yes,Travel_Rarely,Project Management,4,Computer Science,776,2,Female,1,Agile Coach,4,3889,4,Yes,12,4,3,0,13,1,2,8,2,5,6,Female
+56,Yes,Non-Travel,IT Support,4,Computer Science,777,1,Female,4,IT Specialist,3,8300,0,Yes,20,2,1,0,13,2,1,17,4,10,5,Male
+55,Yes,Non-Travel,Software Development,1,Computer Science,778,1,Female,2,Full Stack Developer,1,6113,0,Yes,15,4,1,2,11,3,1,10,4,8,6,Male
+45,Yes,Travel_Rarely,Software Development,1,Business Administration,779,2,Male,2,Backend Developer,3,8039,5,Yes,10,2,1,3,10,4,3,20,6,3,1,Male
+24,Yes,Travel_Rarely,IT Support,1,Mathematics,780,4,Male,4,IT Specialist,1,10329,5,No,9,2,1,3,15,2,1,18,9,10,4,Male
+27,Yes,Travel_Rarely,Data Science,4,Computer Science,781,2,Male,2,Data Scientist,3,9615,3,No,13,2,4,2,27,2,3,9,1,3,8,Female
+23,No,Travel_Rarely,Cybersecurity,2,Computer Science,782,2,Male,1,Security Analyst,2,4534,5,No,10,1,4,2,19,1,4,1,7,6,5,Male
+46,No,Travel_Rarely,Data Science,2,Computer Science,783,1,Male,1,Data Scientist,4,8779,3,Yes,2,1,4,1,20,0,4,17,7,5,4,Female
+45,Yes,Travel_Rarely,Cybersecurity,4,Computer Science,784,4,Male,4,Cybersecurity Engineer,4,6349,2,Yes,2,2,1,3,10,1,2,7,8,7,8,Male
+60,No,Non-Travel,Project Management,3,Computer Science,785,2,Male,2,Project Manager,4,4589,4,No,15,2,1,3,9,1,4,6,1,1,3,Female
+24,No,Non-Travel,Cybersecurity,1,Computer Science,786,4,Male,4,Security Analyst,3,10096,1,Yes,17,4,1,0,21,5,3,16,2,0,4,Male
+40,Yes,Travel_Frequently,Cybersecurity,2,Engineering,787,2,Female,3,Cybersecurity Engineer,2,11151,2,No,19,4,1,2,35,0,1,15,3,6,5,Male
+60,Yes,Travel_Frequently,Project Management,2,Mathematics,788,1,Female,2,Agile Coach,3,7890,3,No,18,2,3,3,4,4,4,2,9,4,2,Female
+35,No,Travel_Rarely,Project Management,1,Mathematics,789,1,Male,3,Agile Coach,3,13396,0,No,1,4,4,2,34,3,3,1,7,1,10,Female
+58,No,Travel_Frequently,Data Science,3,Information Technology,790,4,Female,2,Data Analyst,4,11596,3,No,5,1,4,1,16,0,2,9,10,10,1,Female
+29,Yes,Travel_Frequently,Cybersecurity,3,Business Administration,791,1,Male,4,Network Security Specialist,4,9648,3,Yes,6,1,4,1,3,5,1,15,4,0,7,Male
+26,No,Travel_Frequently,IT Support,2,Engineering,792,3,Male,4,Helpdesk Analyst,3,7989,3,Yes,9,4,3,3,23,1,4,8,2,3,3,Male
+40,Yes,Non-Travel,Software Development,3,Computer Science,793,1,Male,4,Full Stack Developer,3,3244,0,Yes,14,3,1,0,21,1,4,16,4,3,7,Female
+53,No,Travel_Rarely,IT Support,4,Computer Science,794,2,Female,3,System Administrator,1,13450,1,Yes,20,2,1,2,33,1,1,5,5,5,2,Male
+47,Yes,Non-Travel,Project Management,3,Computer Science,795,4,Female,4,Scrum Master,3,13069,4,No,14,4,3,1,11,4,2,3,3,0,4,Female
+28,Yes,Travel_Frequently,Cybersecurity,2,Business Administration,796,1,Female,3,Cybersecurity Engineer,1,14164,4,No,6,3,3,2,36,4,2,12,4,10,8,Male
+45,No,Travel_Rarely,Cybersecurity,2,Information Technology,797,3,Male,2,Security Analyst,2,11387,0,No,13,3,4,2,6,3,3,12,2,6,4,Male
+53,Yes,Non-Travel,Data Science,3,Mathematics,798,2,Female,2,Machine Learning Engineer,3,9116,3,Yes,16,3,3,2,21,0,2,15,9,6,10,Female
+53,Yes,Travel_Rarely,IT Support,1,Information Technology,799,4,Female,3,System Administrator,4,8770,5,Yes,5,3,3,1,10,1,3,9,2,4,9,Male
+40,Yes,Non-Travel,IT Support,1,Mathematics,800,2,Female,4,System Administrator,2,5642,3,No,4,1,1,2,4,3,4,18,1,2,9,Male
+50,Yes,Non-Travel,Software Development,1,Mathematics,801,2,Male,3,Frontend Developer,1,10824,0,Yes,4,2,2,0,36,4,4,2,7,7,4,Male
+38,No,Non-Travel,Data Science,1,Business Administration,802,2,Female,1,Data Scientist,3,5133,1,No,8,4,2,3,2,0,1,15,3,10,8,Female
+46,Yes,Non-Travel,Data Science,3,Information Technology,803,4,Female,1,Machine Learning Engineer,1,9353,0,No,13,1,4,2,3,5,1,8,2,2,10,Female
+31,Yes,Travel_Frequently,Project Management,2,Mathematics,804,2,Female,2,Project Manager,4,13671,1,Yes,2,3,2,0,21,1,3,2,9,5,5,Male
+44,Yes,Travel_Rarely,Project Management,4,Information Technology,805,1,Female,3,Agile Coach,3,6825,0,Yes,14,1,4,3,4,5,3,11,10,2,5,Male
+40,No,Non-Travel,Cybersecurity,1,Business Administration,806,4,Female,2,Security Analyst,3,7188,1,No,20,3,3,0,6,1,1,8,8,1,4,Male
+30,No,Non-Travel,Data Science,4,Computer Science,807,3,Male,3,Machine Learning Engineer,3,4529,2,No,3,1,2,1,19,3,3,19,2,9,2,Female
+52,No,Travel_Frequently,Project Management,3,Business Administration,808,4,Male,1,Project Manager,4,12284,3,Yes,9,1,1,0,5,1,3,4,4,10,9,Male
+58,No,Non-Travel,Software Development,4,Computer Science,809,2,Male,2,Frontend Developer,3,4071,1,Yes,12,3,4,3,4,3,4,9,1,3,7,Female
+51,No,Non-Travel,Data Science,1,Engineering,810,3,Male,4,Machine Learning Engineer,3,9358,1,Yes,8,2,1,3,4,2,4,8,8,6,1,Female
+49,Yes,Travel_Frequently,Cybersecurity,4,Engineering,811,1,Female,3,Network Security Specialist,1,3268,3,Yes,12,4,2,3,22,1,3,17,6,0,1,Male
+46,No,Non-Travel,Project Management,1,Computer Science,812,1,Male,1,Agile Coach,4,3276,1,Yes,18,1,2,1,20,1,1,16,5,6,10,Female
+39,Yes,Travel_Frequently,Software Development,3,Information Technology,813,4,Male,3,Full Stack Developer,4,12743,2,Yes,19,3,4,2,6,3,2,6,1,6,8,Male
+46,No,Travel_Rarely,Project Management,3,Business Administration,814,1,Male,2,Scrum Master,2,12068,5,No,6,1,2,1,29,2,1,6,2,1,9,Female
+29,Yes,Travel_Frequently,Cybersecurity,3,Computer Science,815,3,Female,4,Cybersecurity Engineer,2,13362,6,No,11,4,4,0,40,3,3,17,5,6,1,Male
+30,No,Travel_Rarely,Software Development,1,Information Technology,816,2,Female,3,Software Engineer,4,12444,5,Yes,16,4,1,3,10,4,1,9,4,1,10,Male
+58,No,Non-Travel,Software Development,4,Information Technology,817,3,Male,1,Backend Developer,3,11032,1,Yes,10,2,3,0,16,2,3,8,9,7,7,Female
+32,Yes,Travel_Frequently,Software Development,1,Information Technology,818,1,Male,2,Software Engineer,1,8750,5,No,18,3,4,1,11,3,4,13,7,5,10,Male
+50,No,Travel_Rarely,Software Development,2,Computer Science,819,4,Male,1,Full Stack Developer,4,9035,4,Yes,15,4,3,0,40,1,1,20,8,8,9,Male
+55,Yes,Travel_Frequently,IT Support,1,Business Administration,820,4,Female,3,Helpdesk Analyst,2,13544,1,Yes,1,2,3,3,34,4,2,6,7,1,9,Male
+38,No,Travel_Rarely,Data Science,2,Business Administration,821,3,Male,4,Data Analyst,1,8081,1,No,8,3,2,2,6,1,1,9,6,0,2,Female
+59,Yes,Non-Travel,Project Management,4,Engineering,822,4,Male,1,Agile Coach,2,11204,3,No,8,4,1,1,12,0,3,13,10,2,9,Male
+55,No,Travel_Rarely,Cybersecurity,1,Information Technology,823,2,Female,4,Network Security Specialist,2,3419,1,Yes,18,3,1,2,12,3,2,14,5,9,6,Male
+42,No,Travel_Rarely,Cybersecurity,1,Computer Science,824,3,Male,4,Cybersecurity Engineer,4,6397,1,Yes,8,4,3,3,9,5,4,12,2,1,5,Male
+52,No,Travel_Frequently,Cybersecurity,3,Computer Science,825,1,Female,1,Network Security Specialist,2,7543,5,No,18,3,2,0,38,1,1,6,4,5,1,Male
+52,No,Travel_Frequently,Software Development,4,Information Technology,826,4,Male,2,Backend Developer,1,10041,5,Yes,20,4,4,0,18,0,1,18,5,4,1,Male
+36,No,Travel_Rarely,Project Management,3,Engineering,827,2,Male,2,Agile Coach,3,8033,5,Yes,2,3,3,2,8,0,2,19,5,3,7,Male
+32,No,Travel_Frequently,Cybersecurity,2,Information Technology,828,2,Male,3,Security Analyst,2,5112,4,Yes,10,4,4,1,15,5,3,8,5,2,4,Male
+38,No,Non-Travel,Data Science,4,Information Technology,829,2,Female,1,Machine Learning Engineer,2,7690,6,No,20,1,3,0,13,2,2,6,10,7,5,Female
+32,No,Travel_Rarely,Data Science,2,Computer Science,830,1,Female,3,Data Analyst,4,7643,6,Yes,15,1,4,0,7,3,1,8,3,7,3,Female
+26,Yes,Travel_Rarely,IT Support,1,Mathematics,831,2,Female,2,Technical Support,2,3983,5,No,7,2,2,2,18,4,4,15,2,6,2,Male
+41,Yes,Travel_Rarely,Data Science,1,Information Technology,832,4,Male,1,Data Scientist,3,3883,2,Yes,10,1,1,1,8,0,4,10,8,1,7,Female
+56,No,Non-Travel,IT Support,4,Mathematics,833,3,Male,4,IT Specialist,2,14621,3,No,5,2,3,2,10,2,3,9,2,6,4,Male
+44,No,Non-Travel,Project Management,2,Business Administration,834,3,Male,1,Project Manager,1,5447,3,No,15,1,2,0,32,2,4,2,7,5,7,Male
+44,No,Travel_Rarely,Data Science,2,Business Administration,835,3,Male,2,Data Scientist,3,11243,6,No,11,4,3,3,6,2,2,19,3,9,1,Female
+33,No,Non-Travel,Data Science,2,Mathematics,836,3,Female,3,Data Scientist,3,9686,3,No,20,4,4,1,11,2,3,15,2,3,4,Female
+39,No,Travel_Rarely,Data Science,3,Computer Science,837,3,Female,1,Data Analyst,3,5518,3,No,20,4,2,2,5,1,4,7,2,7,4,Female
+46,No,Travel_Rarely,Project Management,2,Information Technology,838,4,Male,4,Agile Coach,2,14651,6,Yes,6,4,4,2,40,3,2,3,3,1,2,Female
+52,No,Non-Travel,IT Support,2,Engineering,839,1,Female,1,Helpdesk Analyst,3,5621,3,No,1,1,4,0,31,2,1,9,4,8,6,Male
+51,No,Travel_Frequently,Project Management,2,Business Administration,840,3,Male,2,Scrum Master,4,14599,2,Yes,2,3,1,0,17,5,2,20,5,10,10,Male
+53,Yes,Non-Travel,Software Development,2,Information Technology,841,3,Male,1,Software Engineer,4,6793,5,Yes,11,2,1,3,35,1,1,16,4,0,7,Female
+59,No,Travel_Frequently,IT Support,1,Business Administration,842,4,Male,1,System Administrator,2,13926,5,Yes,20,1,2,0,16,4,3,13,9,7,5,Male
+58,Yes,Travel_Frequently,Cybersecurity,4,Business Administration,843,3,Female,1,Network Security Specialist,2,8923,5,No,12,3,4,1,11,1,4,19,10,8,3,Male
+37,No,Travel_Frequently,Cybersecurity,1,Business Administration,844,4,Female,4,Security Analyst,2,6717,2,Yes,12,2,1,2,33,3,2,12,9,9,7,Male
+28,No,Travel_Rarely,IT Support,2,Information Technology,845,1,Male,4,System Administrator,4,13446,2,No,15,4,3,0,3,4,2,1,9,10,9,Male
+40,No,Non-Travel,Software Development,3,Computer Science,846,2,Female,4,Software Engineer,4,5128,1,No,9,4,3,2,24,0,1,1,8,8,6,Female
+44,Yes,Non-Travel,IT Support,1,Engineering,847,3,Male,4,Technical Support,3,11217,0,No,9,1,4,0,34,0,2,7,7,7,3,Male
+34,No,Non-Travel,IT Support,4,Engineering,848,2,Female,3,Helpdesk Analyst,1,4291,3,No,6,4,3,1,23,5,2,16,8,8,7,Male
+56,No,Travel_Frequently,Software Development,2,Business Administration,849,3,Male,1,Frontend Developer,1,14453,0,Yes,12,2,2,0,33,0,1,7,6,6,5,Female
+55,No,Travel_Rarely,IT Support,1,Mathematics,850,4,Male,2,System Administrator,4,4724,0,Yes,18,1,1,3,19,3,2,6,3,8,1,Male
+49,No,Travel_Frequently,Cybersecurity,3,Information Technology,851,1,Female,1,Cybersecurity Engineer,1,13365,4,No,1,4,4,0,36,0,4,4,5,0,3,Male
+28,No,Non-Travel,Software Development,2,Computer Science,852,3,Male,2,Full Stack Developer,1,5195,6,Yes,19,1,1,0,31,5,1,11,5,10,6,Female
+51,Yes,Travel_Frequently,Cybersecurity,4,Information Technology,853,2,Male,3,Security Analyst,3,4465,5,Yes,15,4,3,0,29,0,4,13,5,7,9,Male
+58,No,Travel_Rarely,Software Development,2,Information Technology,854,1,Female,4,Full Stack Developer,2,10163,5,No,13,1,3,0,12,0,1,7,10,1,2,Female
+41,No,Non-Travel,IT Support,4,Business Administration,855,3,Female,3,IT Specialist,2,9418,6,No,8,1,1,0,9,2,2,5,5,1,5,Male
+29,No,Travel_Frequently,Project Management,3,Mathematics,856,3,Female,1,Scrum Master,2,3595,0,No,3,3,3,2,6,5,1,11,8,8,9,Male
+42,No,Non-Travel,Project Management,1,Engineering,857,1,Female,4,Agile Coach,2,11411,3,Yes,10,2,3,1,28,2,3,9,7,8,10,Female
+26,Yes,Travel_Frequently,Data Science,2,Information Technology,858,2,Male,2,Data Scientist,3,6140,5,Yes,14,2,4,2,21,4,2,14,9,3,7,Female
+38,No,Travel_Rarely,IT Support,2,Information Technology,859,3,Female,3,Technical Support,4,7859,4,Yes,5,1,2,0,3,5,4,10,9,2,5,Male
+25,No,Travel_Rarely,Project Management,4,Mathematics,860,2,Male,1,Agile Coach,3,5338,5,No,9,1,1,2,32,3,4,17,9,0,4,Male
+30,No,Travel_Rarely,Project Management,2,Mathematics,861,1,Female,2,Agile Coach,1,10402,3,Yes,2,1,2,3,13,1,4,12,7,2,9,Male
+30,No,Travel_Frequently,Data Science,1,Mathematics,862,2,Male,1,Machine Learning Engineer,2,8536,3,Yes,4,1,3,1,3,1,3,19,6,5,9,Female
+41,No,Travel_Rarely,Cybersecurity,2,Information Technology,863,3,Female,1,Security Analyst,2,3838,1,Yes,16,4,4,1,1,3,1,7,10,1,4,Male
+47,Yes,Travel_Frequently,Cybersecurity,3,Engineering,864,2,Male,4,Security Analyst,4,9844,5,No,7,1,4,3,3,5,1,7,2,9,5,Male
+33,No,Non-Travel,Project Management,1,Engineering,865,3,Female,2,Project Manager,3,6804,1,Yes,3,3,3,0,7,0,4,6,10,7,8,Male
+60,No,Travel_Frequently,Software Development,3,Computer Science,866,2,Male,2,Frontend Developer,3,11590,4,Yes,5,1,4,3,26,4,3,7,9,3,7,Male
+46,Yes,Travel_Frequently,Project Management,3,Information Technology,867,2,Male,1,Agile Coach,4,8948,0,Yes,1,4,4,1,21,0,2,16,4,4,9,Male
+27,Yes,Travel_Frequently,Software Development,2,Business Administration,868,4,Female,2,Software Engineer,3,7839,3,No,8,3,2,0,5,5,4,10,3,6,10,Female
+24,Yes,Travel_Frequently,Cybersecurity,1,Mathematics,869,3,Male,2,Cybersecurity Engineer,3,12717,4,Yes,17,4,2,0,40,4,2,5,7,4,6,Male
+47,Yes,Non-Travel,Cybersecurity,3,Engineering,870,3,Female,1,Network Security Specialist,2,6365,2,Yes,20,3,4,0,19,0,4,20,10,4,6,Male
+56,No,Travel_Rarely,Project Management,1,Computer Science,871,2,Male,2,Agile Coach,1,11974,0,No,2,2,4,2,17,4,3,13,3,6,10,Female
+38,No,Non-Travel,IT Support,2,Mathematics,872,3,Male,4,Helpdesk Analyst,2,11005,0,No,3,4,2,0,25,5,2,10,1,0,1,Male
+26,Yes,Non-Travel,Project Management,1,Information Technology,873,3,Female,4,Agile Coach,1,3438,4,No,8,2,3,0,19,0,1,5,10,1,9,Female
+56,Yes,Travel_Frequently,Software Development,3,Business Administration,874,3,Male,4,Software Engineer,1,14567,6,No,16,2,2,1,26,4,3,3,1,1,5,Female
+38,Yes,Non-Travel,Software Development,1,Business Administration,875,1,Male,3,Backend Developer,2,12448,1,Yes,15,1,3,1,30,5,1,13,10,10,9,Female
+32,Yes,Travel_Frequently,Data Science,3,Information Technology,876,4,Female,1,Data Scientist,4,7442,3,Yes,3,1,4,3,1,5,1,1,8,7,5,Female
+55,Yes,Travel_Frequently,Cybersecurity,3,Mathematics,877,4,Female,1,Network Security Specialist,1,8152,1,Yes,20,1,2,2,17,0,3,4,2,3,7,Male
+59,Yes,Non-Travel,Cybersecurity,3,Business Administration,878,4,Female,1,Security Analyst,3,8351,1,No,1,2,1,0,8,1,1,9,3,6,3,Male
+37,Yes,Travel_Rarely,IT Support,4,Business Administration,879,4,Male,2,Technical Support,4,4539,2,No,4,3,1,3,5,1,4,7,1,1,2,Male
+28,No,Travel_Rarely,IT Support,4,Engineering,880,4,Female,4,IT Specialist,1,7679,4,No,3,3,3,0,7,4,3,20,4,3,10,Male
+51,No,Travel_Frequently,Software Development,2,Mathematics,881,3,Female,1,Full Stack Developer,3,14180,4,Yes,9,3,4,3,2,4,3,1,3,0,2,Female
+56,No,Travel_Frequently,Cybersecurity,3,Engineering,882,2,Male,2,Cybersecurity Engineer,4,11200,1,Yes,16,4,1,2,18,5,1,19,5,9,4,Male
+35,Yes,Travel_Rarely,Data Science,1,Computer Science,883,2,Female,1,Machine Learning Engineer,2,11635,6,Yes,14,4,4,1,8,4,3,13,2,8,8,Female
+26,Yes,Travel_Rarely,Data Science,1,Computer Science,884,1,Male,1,Machine Learning Engineer,4,8244,5,No,8,3,1,1,25,3,1,10,9,8,5,Female
+39,No,Travel_Rarely,Cybersecurity,1,Business Administration,885,1,Male,4,Network Security Specialist,4,4839,5,No,15,4,3,0,16,0,3,17,2,2,3,Male
+55,No,Travel_Rarely,Cybersecurity,3,Computer Science,886,4,Female,4,Network Security Specialist,3,12674,5,No,18,4,4,3,35,4,4,5,8,8,6,Male
+48,Yes,Non-Travel,IT Support,3,Information Technology,887,2,Female,3,Technical Support,4,12280,1,Yes,15,3,1,1,26,5,2,3,7,3,10,Male
+43,Yes,Non-Travel,Cybersecurity,3,Mathematics,888,1,Female,3,Network Security Specialist,4,5716,1,No,20,4,3,2,39,0,2,4,2,7,7,Male
+43,No,Travel_Frequently,Project Management,2,Engineering,889,1,Male,3,Agile Coach,2,10206,4,No,7,1,3,2,13,4,4,20,4,8,4,Male
+50,No,Non-Travel,Project Management,1,Engineering,890,4,Male,3,Scrum Master,4,6292,3,No,2,4,1,2,9,4,4,5,4,4,5,Female
+24,No,Travel_Frequently,IT Support,2,Mathematics,891,2,Female,4,IT Specialist,1,12394,3,No,11,4,3,1,29,3,4,18,5,4,1,Male
+54,No,Travel_Frequently,IT Support,4,Computer Science,892,1,Male,4,Helpdesk Analyst,4,11089,0,No,20,1,1,3,35,2,3,5,1,10,8,Male
+28,No,Travel_Rarely,Data Science,4,Mathematics,893,2,Male,2,Data Scientist,2,4242,0,Yes,17,3,1,1,21,1,2,3,7,1,10,Female
+29,No,Non-Travel,Project Management,1,Computer Science,894,2,Male,3,Agile Coach,2,4621,3,No,17,1,2,2,9,1,3,20,4,7,5,Male
+37,No,Travel_Rarely,Data Science,1,Engineering,895,3,Female,2,Data Scientist,4,7813,2,Yes,20,3,3,2,20,1,2,15,7,2,6,Female
+30,No,Travel_Rarely,IT Support,3,Mathematics,896,4,Female,4,Technical Support,3,6464,6,No,14,1,3,2,16,2,2,13,1,9,1,Male
+58,Yes,Travel_Rarely,Cybersecurity,4,Mathematics,897,1,Male,2,Network Security Specialist,1,6840,6,Yes,5,2,1,1,17,2,3,14,10,4,9,Male
+47,No,Travel_Rarely,IT Support,3,Computer Science,898,2,Male,2,Technical Support,1,8392,6,No,1,2,4,2,18,5,1,15,10,3,2,Male
+46,No,Travel_Frequently,Data Science,4,Computer Science,899,1,Male,4,Data Analyst,2,14232,0,No,17,1,4,2,33,4,3,6,10,0,4,Female
+32,No,Travel_Rarely,IT Support,3,Business Administration,900,1,Female,2,System Administrator,1,11402,6,Yes,7,3,2,2,2,0,1,18,3,8,6,Male
+42,Yes,Travel_Frequently,IT Support,2,Business Administration,901,2,Female,2,IT Specialist,3,4164,6,No,14,1,3,1,26,2,4,8,3,1,5,Male
+39,No,Non-Travel,Project Management,3,Computer Science,902,3,Male,1,Project Manager,3,3452,6,No,15,2,2,3,5,5,1,15,4,3,10,Male
+40,No,Non-Travel,Software Development,2,Engineering,903,4,Female,1,Backend Developer,4,4400,6,Yes,15,2,4,2,34,2,2,17,7,7,1,Female
+52,Yes,Travel_Rarely,Software Development,4,Mathematics,904,1,Female,1,Full Stack Developer,2,11326,0,Yes,9,2,2,3,2,1,4,17,10,7,6,Male
+41,No,Non-Travel,Data Science,1,Computer Science,905,2,Male,2,Data Scientist,1,4216,6,Yes,8,3,4,2,14,4,2,20,5,1,2,Female
+43,No,Non-Travel,Software Development,2,Information Technology,906,4,Male,1,Frontend Developer,1,6602,1,No,12,4,3,0,13,1,2,8,10,6,5,Female
+55,No,Travel_Frequently,Data Science,1,Mathematics,907,2,Male,3,Data Analyst,3,13459,5,Yes,10,3,1,0,33,3,1,4,7,6,10,Female
+57,No,Travel_Frequently,Software Development,3,Mathematics,908,2,Male,2,Full Stack Developer,4,12484,0,Yes,2,2,2,2,16,0,3,13,3,1,10,Male
+40,No,Non-Travel,Data Science,3,Mathematics,909,1,Female,3,Data Analyst,1,3707,6,Yes,12,2,3,1,3,2,3,11,5,1,1,Female
+55,Yes,Non-Travel,Cybersecurity,1,Information Technology,910,3,Male,1,Security Analyst,4,12926,2,No,14,2,3,0,37,0,4,4,4,4,1,Male
+34,Yes,Non-Travel,Cybersecurity,2,Mathematics,911,1,Male,4,Network Security Specialist,1,4306,2,No,12,2,3,2,25,0,4,17,8,5,1,Male
+43,No,Travel_Frequently,IT Support,3,Mathematics,912,2,Male,1,System Administrator,4,7230,1,Yes,13,4,3,1,8,1,1,13,6,4,6,Male
+53,No,Travel_Frequently,Project Management,1,Engineering,913,2,Female,4,Project Manager,2,5210,5,Yes,5,2,2,1,37,3,3,17,6,0,4,Female
+57,No,Travel_Frequently,Project Management,1,Information Technology,914,2,Female,4,Project Manager,4,13486,2,Yes,15,4,4,0,35,3,1,20,7,2,3,Male
+41,No,Non-Travel,Software Development,4,Business Administration,915,1,Female,3,Software Engineer,2,7373,3,No,11,4,3,1,28,4,4,8,7,5,9,Female
+54,Yes,Travel_Rarely,Cybersecurity,4,Mathematics,916,3,Male,2,Security Analyst,4,3996,5,Yes,16,2,1,1,26,5,2,8,5,3,6,Male
+23,Yes,Non-Travel,Software Development,3,Mathematics,917,4,Female,2,Full Stack Developer,2,12059,1,No,12,4,3,0,37,2,1,13,1,1,3,Female
+44,Yes,Non-Travel,Project Management,1,Business Administration,918,4,Female,4,Agile Coach,1,8618,4,Yes,14,2,4,1,22,3,3,1,2,2,5,Male
+31,Yes,Non-Travel,IT Support,3,Engineering,919,2,Male,2,Technical Support,4,5417,0,Yes,19,3,3,2,33,3,4,15,2,2,1,Male
+60,Yes,Travel_Rarely,Project Management,4,Mathematics,920,2,Male,3,Agile Coach,3,13563,3,Yes,11,1,2,0,2,0,2,1,7,6,7,Male
+41,Yes,Non-Travel,Cybersecurity,1,Business Administration,921,3,Male,4,Security Analyst,4,5943,2,Yes,16,4,1,1,36,5,4,11,6,2,5,Male
+35,No,Non-Travel,Software Development,4,Mathematics,922,2,Male,3,Software Engineer,3,3915,4,Yes,4,1,1,3,16,4,4,10,5,2,9,Female
+42,No,Non-Travel,Data Science,3,Computer Science,923,4,Male,3,Data Scientist,1,9676,0,No,14,1,2,0,26,3,3,18,4,9,9,Female
+56,Yes,Travel_Rarely,Software Development,1,Information Technology,924,4,Female,3,Full Stack Developer,4,6529,4,Yes,7,1,4,2,18,0,2,5,7,0,5,Female
+60,No,Travel_Frequently,Cybersecurity,3,Information Technology,925,4,Male,2,Cybersecurity Engineer,3,14812,3,No,15,1,4,2,40,2,1,4,4,2,7,Male
+50,No,Travel_Frequently,Software Development,1,Business Administration,926,3,Female,2,Full Stack Developer,4,4817,2,Yes,3,4,4,2,4,0,1,5,4,9,4,Male
+24,Yes,Travel_Frequently,Cybersecurity,3,Information Technology,927,1,Male,3,Cybersecurity Engineer,2,7165,5,No,1,3,4,3,9,4,2,11,7,4,7,Male
+52,No,Travel_Frequently,Software Development,2,Engineering,928,1,Female,2,Full Stack Developer,3,6211,6,Yes,12,1,1,2,20,3,3,12,2,2,4,Male
+39,Yes,Travel_Rarely,IT Support,3,Engineering,929,1,Female,1,Technical Support,4,11347,0,No,15,3,3,2,12,1,2,10,2,2,3,Male
+26,No,Non-Travel,Project Management,4,Information Technology,930,2,Female,4,Scrum Master,1,10885,0,No,2,1,2,3,36,4,3,8,9,0,2,Male
+38,No,Travel_Frequently,Software Development,1,Computer Science,931,1,Male,4,Software Engineer,4,12030,2,No,10,2,1,3,10,4,4,12,6,9,2,Female
+24,Yes,Non-Travel,Project Management,3,Computer Science,932,3,Female,3,Agile Coach,3,11811,6,No,18,4,1,1,39,0,2,13,6,10,4,Female
+57,No,Travel_Rarely,IT Support,3,Mathematics,933,3,Male,2,Helpdesk Analyst,2,14704,6,Yes,12,2,2,0,11,2,3,2,9,7,7,Male
+53,Yes,Non-Travel,Data Science,4,Computer Science,934,3,Male,2,Data Scientist,2,7371,1,No,15,4,2,1,39,0,4,3,4,7,10,Female
+39,No,Travel_Rarely,Project Management,4,Business Administration,935,3,Male,2,Agile Coach,3,5949,0,Yes,17,1,3,0,25,1,2,17,3,9,2,Male
+32,No,Travel_Rarely,Data Science,3,Engineering,936,1,Male,2,Machine Learning Engineer,2,3425,4,No,13,2,2,2,19,4,4,9,3,7,9,Female
+60,Yes,Non-Travel,Project Management,4,Computer Science,937,3,Female,2,Agile Coach,2,4822,4,No,17,2,2,2,24,2,4,20,1,1,10,Female
+50,No,Travel_Frequently,Project Management,1,Mathematics,938,2,Male,1,Agile Coach,1,13283,3,No,20,4,4,0,40,2,3,11,6,8,9,Female
+33,No,Non-Travel,Project Management,3,Engineering,939,2,Female,4,Scrum Master,1,9000,3,No,12,4,4,1,30,2,1,4,9,6,4,Female
+54,No,Travel_Rarely,Data Science,4,Engineering,940,1,Male,4,Machine Learning Engineer,4,13143,2,Yes,4,1,3,1,27,1,1,2,7,10,5,Female
+48,No,Non-Travel,Software Development,3,Information Technology,941,1,Male,3,Full Stack Developer,3,12125,5,No,19,3,2,1,23,2,2,3,9,8,10,Male
+47,Yes,Non-Travel,Data Science,2,Computer Science,942,2,Female,1,Data Analyst,2,11104,2,No,8,3,1,1,29,3,2,7,3,2,10,Female
+40,Yes,Non-Travel,IT Support,4,Computer Science,943,1,Female,3,IT Specialist,2,8847,5,Yes,14,3,1,0,28,4,1,2,8,8,4,Male
+51,Yes,Travel_Rarely,Software Development,2,Information Technology,944,3,Male,1,Frontend Developer,2,5027,2,No,19,4,2,2,20,3,1,11,9,1,3,Male
+37,No,Non-Travel,Data Science,1,Computer Science,945,4,Female,1,Data Analyst,4,6213,3,No,20,1,1,2,4,0,3,2,5,4,10,Female
+56,No,Travel_Rarely,Cybersecurity,3,Business Administration,946,3,Female,1,Cybersecurity Engineer,3,7043,1,No,16,2,3,3,25,2,4,20,9,2,1,Male
+54,Yes,Non-Travel,Software Development,2,Business Administration,947,1,Female,3,Frontend Developer,3,3350,4,No,2,3,3,2,7,2,3,2,4,5,6,Male
+59,Yes,Travel_Frequently,Project Management,3,Engineering,948,1,Male,2,Scrum Master,3,14803,2,Yes,1,4,2,2,26,4,2,19,8,3,9,Female
+34,No,Travel_Rarely,Project Management,3,Mathematics,949,3,Female,2,Agile Coach,1,14785,5,No,7,2,2,3,21,5,4,13,9,9,4,Male
+36,No,Travel_Rarely,Cybersecurity,2,Mathematics,950,4,Female,1,Security Analyst,4,13827,6,Yes,2,4,2,3,6,3,1,17,5,5,4,Male
+56,Yes,Travel_Frequently,Project Management,1,Engineering,951,1,Male,3,Agile Coach,3,12268,1,Yes,10,3,2,0,19,2,1,9,1,6,6,Female
+46,No,Travel_Rarely,Project Management,1,Mathematics,952,2,Male,3,Project Manager,4,9715,0,No,7,1,2,1,4,4,2,13,7,7,1,Female
+23,No,Non-Travel,Software Development,1,Information Technology,953,2,Female,2,Frontend Developer,4,6142,1,Yes,13,2,2,0,15,3,1,7,1,9,8,Male
+29,Yes,Non-Travel,Data Science,4,Mathematics,954,4,Female,3,Machine Learning Engineer,2,10196,5,No,15,3,3,2,39,0,4,11,2,10,5,Female
+28,Yes,Non-Travel,Software Development,1,Information Technology,955,4,Female,4,Software Engineer,4,4650,6,Yes,16,2,3,2,16,4,3,12,2,1,7,Male
+59,Yes,Non-Travel,Software Development,4,Computer Science,956,3,Male,1,Full Stack Developer,2,5600,1,Yes,20,2,1,1,4,0,3,1,10,10,9,Female
+50,No,Non-Travel,Software Development,4,Computer Science,957,4,Male,2,Backend Developer,2,10026,1,Yes,5,2,4,0,30,4,1,5,4,8,6,Female
+25,No,Non-Travel,Cybersecurity,4,Mathematics,958,4,Male,2,Security Analyst,2,6077,2,No,18,1,1,0,1,5,4,7,7,0,7,Male
+42,Yes,Non-Travel,Cybersecurity,2,Computer Science,959,2,Female,2,Cybersecurity Engineer,2,13513,2,Yes,6,4,4,0,39,1,4,16,8,4,6,Male
+39,No,Travel_Frequently,Software Development,3,Business Administration,960,1,Female,2,Backend Developer,2,6417,6,No,5,1,2,0,29,5,2,9,3,1,7,Male
+51,No,Travel_Rarely,Data Science,1,Business Administration,961,1,Female,2,Data Scientist,1,14930,4,Yes,2,4,3,3,21,5,2,14,10,7,8,Female
+48,No,Travel_Frequently,Cybersecurity,2,Engineering,962,4,Male,1,Cybersecurity Engineer,3,4654,5,No,2,2,3,3,38,2,1,11,2,4,8,Male
+39,Yes,Travel_Frequently,Project Management,3,Engineering,963,3,Female,3,Project Manager,3,3431,0,Yes,1,2,3,2,37,1,1,14,1,1,5,Female
+39,Yes,Travel_Frequently,Data Science,2,Engineering,964,2,Male,1,Machine Learning Engineer,4,12500,5,Yes,13,2,2,1,28,1,3,14,6,9,7,Female
+40,No,Travel_Rarely,IT Support,3,Computer Science,965,1,Female,3,System Administrator,1,7110,5,Yes,19,2,4,0,20,0,4,9,5,7,7,Male
+24,No,Travel_Rarely,Cybersecurity,3,Engineering,966,4,Male,2,Network Security Specialist,3,8819,0,No,12,4,1,2,1,1,1,20,1,9,10,Male
+48,Yes,Non-Travel,Software Development,2,Computer Science,967,3,Male,4,Frontend Developer,1,11521,5,No,17,3,3,1,21,4,3,13,1,3,4,Male
+32,No,Travel_Frequently,Project Management,2,Information Technology,968,1,Female,3,Project Manager,4,8464,5,No,14,1,2,0,3,4,4,6,3,6,10,Male
+45,No,Non-Travel,Cybersecurity,4,Business Administration,969,2,Female,2,Security Analyst,3,12012,1,No,3,4,2,0,28,4,4,12,2,8,9,Male
+43,No,Travel_Frequently,Project Management,4,Information Technology,970,3,Male,4,Scrum Master,4,12373,2,Yes,16,1,4,1,20,0,2,12,7,10,6,Female
+31,No,Travel_Rarely,Software Development,1,Information Technology,971,3,Male,1,Full Stack Developer,1,14943,5,Yes,3,4,2,2,10,3,4,14,1,4,4,Female
+43,Yes,Non-Travel,Cybersecurity,4,Computer Science,972,4,Female,2,Cybersecurity Engineer,4,14700,4,No,6,4,1,0,39,2,1,9,3,3,7,Male
+35,No,Non-Travel,Project Management,1,Information Technology,973,2,Female,3,Project Manager,4,3854,0,No,15,4,2,3,30,5,4,13,7,8,8,Female
+29,Yes,Travel_Rarely,IT Support,4,Engineering,974,3,Male,4,IT Specialist,3,7100,0,No,16,4,2,0,39,1,2,3,7,4,10,Male
+32,Yes,Travel_Frequently,Software Development,3,Computer Science,975,4,Male,4,Frontend Developer,1,3330,5,No,9,2,2,0,13,2,1,15,3,10,7,Female
+46,No,Travel_Rarely,Cybersecurity,1,Mathematics,976,1,Female,2,Cybersecurity Engineer,1,14354,6,No,19,3,4,3,30,3,1,6,2,8,10,Male
+35,No,Non-Travel,Data Science,1,Business Administration,977,1,Male,3,Data Scientist,1,6780,1,No,1,1,4,2,40,3,2,6,1,9,3,Female
+34,Yes,Travel_Frequently,Cybersecurity,4,Computer Science,978,3,Male,4,Cybersecurity Engineer,1,12166,3,No,9,4,2,0,34,2,1,9,3,9,9,Male
+28,No,Travel_Frequently,Data Science,3,Engineering,979,4,Male,1,Data Scientist,4,14512,2,No,19,1,2,1,18,2,1,12,1,2,9,Female
+37,Yes,Travel_Frequently,IT Support,2,Mathematics,980,4,Female,2,IT Specialist,2,13081,0,Yes,3,2,1,3,27,5,2,10,4,6,7,Male
+55,No,Travel_Frequently,Cybersecurity,1,Information Technology,981,4,Female,4,Cybersecurity Engineer,1,12201,0,No,2,4,3,1,28,0,3,12,5,2,3,Male
+49,No,Non-Travel,Project Management,2,Engineering,982,4,Male,3,Project Manager,3,3568,5,Yes,3,1,2,0,40,2,3,8,10,10,10,Female
+47,Yes,Travel_Rarely,Data Science,1,Mathematics,983,4,Female,1,Data Analyst,2,4260,0,Yes,8,2,3,1,9,5,1,10,1,5,2,Female
+47,Yes,Travel_Frequently,IT Support,1,Engineering,984,2,Male,2,Technical Support,2,5295,0,No,5,2,3,1,1,5,2,9,5,7,8,Male
+38,No,Travel_Rarely,Cybersecurity,1,Mathematics,985,4,Female,1,Network Security Specialist,3,11723,1,No,7,1,3,0,25,3,4,10,2,0,3,Male
+42,No,Non-Travel,Project Management,3,Engineering,986,2,Female,4,Project Manager,1,8199,6,Yes,16,4,1,0,14,3,1,6,2,5,2,Male
+31,No,Travel_Rarely,Data Science,4,Mathematics,987,2,Female,4,Data Analyst,1,6851,6,No,14,2,4,3,34,4,2,4,4,6,7,Female
+52,Yes,Travel_Frequently,Data Science,4,Business Administration,988,2,Female,2,Data Analyst,1,9718,3,Yes,12,3,4,1,27,4,2,2,8,2,5,Female
+42,Yes,Non-Travel,Data Science,4,Information Technology,989,4,Male,1,Machine Learning Engineer,3,12388,3,Yes,1,2,2,0,5,3,1,11,10,0,4,Female
+58,No,Travel_Frequently,Project Management,3,Business Administration,990,1,Female,1,Scrum Master,4,14248,6,Yes,2,1,1,1,33,4,2,17,4,6,5,Male
+32,No,Travel_Frequently,Cybersecurity,2,Information Technology,991,1,Male,1,Network Security Specialist,4,5154,0,No,2,3,4,2,35,2,1,6,7,0,7,Male
+56,No,Non-Travel,Project Management,1,Business Administration,992,1,Male,4,Project Manager,1,6783,3,Yes,8,1,3,1,36,2,3,18,10,8,7,Male
+55,No,Travel_Rarely,Data Science,4,Mathematics,993,4,Male,2,Machine Learning Engineer,3,14335,6,No,20,2,1,1,30,1,4,2,2,4,4,Female
+57,Yes,Travel_Frequently,Software Development,4,Computer Science,994,4,Male,3,Frontend Developer,3,6544,3,No,1,2,1,1,35,5,4,10,7,7,8,Male
+49,Yes,Non-Travel,Data Science,4,Business Administration,995,4,Male,3,Data Scientist,1,3534,1,No,3,4,2,1,24,3,2,10,9,1,3,Female
+33,Yes,Travel_Rarely,Project Management,2,Mathematics,996,2,Male,1,Project Manager,4,11041,6,Yes,13,1,1,1,23,1,1,10,10,3,4,Male
+45,No,Non-Travel,Data Science,3,Business Administration,997,4,Female,4,Data Scientist,4,8925,2,No,8,3,4,2,29,0,4,10,6,10,10,Female
+44,Yes,Travel_Frequently,Software Development,2,Mathematics,998,1,Female,4,Backend Developer,1,8238,2,Yes,6,2,4,2,26,4,3,11,3,4,5,Female
+34,Yes,Travel_Frequently,Project Management,3,Business Administration,999,3,Female,3,Project Manager,1,3580,4,Yes,7,2,2,2,37,0,2,5,4,7,9,Female
+24,Yes,Travel_Rarely,Project Management,4,Business Administration,1000,3,Male,2,Project Manager,3,14943,6,No,20,1,3,0,12,1,2,13,4,0,3,Female
